@@ -1,0 +1,325 @@
+\documentclass[11pt,letterpaper]{article}
+
+%\usepackage{hyperref}
+\usepackage[latin1]{inputenc}
+\usepackage[pdftex]{hyperref}
+\usepackage{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{csquotes}
+\newenvironment{itquote}
+{\begin{quote}\itshape}
+{\end{quote}}
+
+% Comment the following line to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[sc,osf]{mathpazo}
+
+% In practice, I use the following font packages instead of mathpazo.
+% beramono provides a nice fixed-width font. xagaramon uses the
+%\usepackage[scaled=0.75]{beramono}
+%\usepackage{xagaramon}
+
+% Set your name here
+\def\name{Research Elaborated\\ \small{\textit{\today}}}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+%\def\footerlink{http://kauppinen.net/tomi}
+
+\hypersetup{
+colorlinks,%
+citecolor=black,%
+filecolor=black,%
+linkcolor=blue,%
+anchorcolor=black,%
+urlcolor=blue
+}
+% The following metadata will show up in the PDF properties
+% \hypersetup{
+%   colorlinks = true,
+%   urlcolor = black,
+%   pdfauthor = {\name},
+%   pdfkeywords = {semantic web, ontologies},
+%   pdftitle = {\name: Curriculum Vitae},
+%   pdfsubject = {Curriculum Vitae},
+%   pdfpagemode = UseNone
+% }
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+% \renewenvironment{itemize}{
+%   \begin{list}{}{
+%     \setlength{\leftmargin}{1.5em}
+%   }
+% }{
+%   \end{list}
+% }
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}[t]{0.5\textwidth}
+%Cognitive Systems Group, University of Bremen \\
+%\scriptsize and
+Dr. Tomi Kauppinen, Docent, Ph.D.\\
+Aalto University, Finland \\
+%  Institute for Geoinformatics \\
+%  University of M{\"u}nster, Germany \\
+
+  \normalsize
+
+
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+
+\end{minipage}
+
+\small For my bio, the context and my activities please visit
+\url{http://kauppinen.net/tomi}.
+The bibliography file\footnote{\url{http://kauppinen.net/tomi/publications-tomi-kauppinen.bib}}
+and source
+file\footnote{\url{http://kauppinen.net/tomi/publications-tomi-kauppinen-elaborated.tex}}
+of this document are available online. Please also check
+an interactive visualization of publications with
+Bibtexbrowser
+\footnote{\url{http://kauppinen.net/tomi/bibtexbrowser.local.php?frameset&bib=publications-tomi-kauppinen.bib}}.
+
+\normalsize
+
+\section*{Publications briefly elaborated (almost all of them)}
+
+\begin{itemize}
+  \item I am super interested in futures, i.e. supporting to understand what might happen in the future of the humankind and the world we humans, animals and plants live in. I published my book 'Human'\footnote{Human is available as a paperback, hard cover and ebook via Amazon \url{http://amazon.com/Human-Tomi-Kauppinen/dp/B0CW1QZ32S}} where I made use of speculative fiction and science fiction traditions to philosophisize about future events happening to humans. Without spoiling the plot too much, here is what I wrote as the description of 'Human' \cite{human-I}.
+\begin{itquote}
+In this world full of open questions and uncertainty Human is the story of people engaging to cope with what they perceive and experience. This future world is easy, yet strange to live in as a human.
+
+Queen with its AI-powered, mysterious operations is providing people virtually everything. The role of a human being is to enjoy. New controlling orders, regular bright light sessions and queen bots raise suspicions.
+
+However, we can evidence those who are human. Queen wants to make clear there is a difference between them and human. What will people do? Will they learn something about themselves, the world and Queen? The stakes are high in this adventure about what we can call human."
+
+Human is a timely book in this era of Artificial Intelligence. Human seeks to be a timeless story touching both our generations and the future generations to come.
+\end{itquote}
+  \item Recently we have been designing how to best produce games \cite{gamejams-2021,game-production-2022,Promotypes2023} and 360 degree learning environments \cite{production-pipeline-360}. In the core of our activities is the idea of humanizing online learning \cite{humanizing-2024}.
+  \item I co-edited the book "Design Education Across Disciplines--Transformative Learning Experiences for the 21st Century" \cite{DesignEducation2023}--published by Palgrave Macmillan in April 2023--in which distinguished design professors from around the world share their visions and practices on design education.
+  \item We made use of Design Science Reearch to design a learning toolbox for educators to design their courses and other educational offerings to be engaging, activating and supportive for learners \cite{designing-toolbox-2022}.
+  \item I have always found it fascinating to study the use of web, online and
+  networked environments and storytelling. 
+   \begin{itemize}
+    \item The role and promise of information visualization to help understanding what is going on in the world. See for instance my essay "Exploring the Amazon Rainforest through Information Visualizations" \cite{exploration-2020} at The OBJECTS OF THE FOREST online exhibition at the Helsinki Design Week 2020.
+    \item In Aalto Online Learning
+    project\footnote{\url{http://onlinelearning.aalto.fi/}}
+    \cite{advancing-2021,aalto-online-learning-2017,transforming-uni-2018,designing-learning-2020}, strategic
+    initiative of Aalto University, we have developed, delivered, experimented and evaluated new digital tools and online materials in a wide set of themes covering:
+    playable concepts---exploring embedded games for education, arranging game jams\cite{gamejames-2021}, communication and illustration \cite{playable-concepts-2020}, augmented and virtual reality, online interactive textbooks, automatic
+    assessment, video production \cite{era-of-online-videos-2018}, electronic exams
+     and online social interaction. We have also proposed novel concepts to
+     create communities of practice for teachers to jointly create online and blended
+     learning settings.
+     \item Related to this, is it possible to understand learners' activities by
+     letting them to create a network of information as they see connections
+     between different learning topics? How can we let them express their
+     feelings about learning and record these in the same information networks?
+     (see \cite{visual-self-assessment-2018}). Further on, we have recently also
+     studied and visually analyzed the recognition of prior learning of English
+     (see \cite{rpl-test-or-assess-2019}).
+    \item Increasing Information Transparency through Web Maps -
+   essentially commmunicating about relevant issues of information
+   visualizations to improve transparency \cite{AW4city2018}, with a comparison
+   between geovisualizations and bare data tables
+   \cite{geoviz-data-tables-2018}.
+    \item Experimenting how a global collaboration can support learning,
+    feeling of responsibility and team forming in a global product design
+    marathon \cite{global-design-relay-2017}
+    \item Learning music online via searching by playing benefits from
+     structured representations of music \cite{MusicOWL-2017}
+    \item We have developed a theoretical model for the \textbf{associative
+    nature of conference participation} \cite{associative-nature-2016}.
+
+
+  \end{itemize}
+
+\item \textbf{eScience, Open Science, Semantic Science and Linked Science}
+\begin{itemize}
+\item Please read our Editorial: Special Issue on Semantic eScience: Methods, tools and applications \cite{Semantic-eScience-SWJ-2020}. Abstract of the editorial: "Openly shared, available, and accessible scientific resources facilitate tackling grand challenges that our society, organizations, communities and individuals are facing today. Pandemics, climate change, environmental modeling, genomics, or space exploration all create open research questions for which Artificial Intelligence -and Semantic Web in particular- have a unique potential to accelerate scientific discoveries. In this editorial, we introduce a special issue on Semantic eScience methods, tools and applications for the Semantic Web Journal and outline five challenges or Semantic eScience in the years to come."
+\item I have co-organised workshops and co-edited proceedings to create a community around open, semantic and linked science. Please check SemSci2018 \cite{semsci2018},
+SemSci2017 \cite{semsci2017}, LISC 2015 \cite{lisc2015}, LISC 2014 \cite{lisc2014}, LISC 2013 \cite{lisc2013}, LISC 2012
+\cite{lisc2012} and LISC 2011 \cite{lisc2011} for a wide range of relevant papers.
+\item See our original article about Linked Open Science \cite{LinkedOpenScience2011} and its extension as a book chapter \cite{kauppinen-et-al-linked-science-2013}.
+\item About applying Linked Science approach see our work on sharing remote sensing data
+		\cite{kauppinen-remote-sensing-data-2012}---especially Linked Brazilian Amazon Data \cite{kauppinen-et-al-linked-brazilian-amazon-2014}, and our work on managing scientific findings \cite{baglatzi-kauppinen-ekaw2012-2012}.
+
+	   \item For making sense of publication data see spatial@linkedscience
+		\cite{spatialatlinkedscience2012} and for visually interacting with Linked
+		Spatiotemporal Data with gestures see \cite{dreieck2013}. Another way to
+		explore linked scientific data is to create analysis and animations on the fly
+		with our ELBAR explorer \cite{elbar-2014} as a \textbf{hypothesis generation
+		step for further research}.
+		\item Our work related work on Linked Universities is reported in a paper about the Linked Open Data University of Muenster (LODUM), see
+\cite{kessler-kauppinen-lodum-2012} and in papers about Linked Open Aalto, especially using the idea for visual exploration of data \cite{datavisu-eswc-2013}, for instance to understand interorganizational collaboration \cite{hukkinen-kauppinen-2014} via \textbf{visual analytics}.
+\item Further on, we have used \textbf{text mining techniques}
+ to understand and plot spatial aboutness of publications \cite{spatialaboutness2015}. The idea is to thus to facilitate directing of new research to regions yet unexplored. Linking of scientific assets together, and to space and time
+ should create grounds for Linked Earth, where \textbf{all important information about the Earth is interconnected} and can be explored at different levels \cite{linkedearth-2014}.
+\end{itemize}
+\item As a result of ifgi 20 years
+		anniversary Think Tank we prepared an article asking ``How can Geoinformatics
+		help address global challenges?'' \cite{geoinfo-global-challenges}.
+		Our vision for \textbf{Geographic Information Observatories} was outlined in
+		 \cite{tgio-2014}. Related to this, we have studied the role of contextual information \cite{contextual-2015} as lenses to observe the data universe.
+		We have
+		studied \textbf{Volunteered Geographic Information (VGI)} to understand and advance the role of affordances
+ 		\cite{geosensor-data-and-vgi-2010}, modeling of provenance \cite{openstreetmap-provenance-2011}
+  		\cite{openstreetmap-editing-2011} \cite{ontomaps2012}, spatial data mining to assess classification of VGI features \cite{vgi-acmsigspatial2014} and modeling of trust and reputation \cite{dantonio2014}.
+\item Related to our VGI efforts we have employed \textbf{bayesian networks for
+crowdsensing and to support situation awareness}
+\cite{crowdsensing-bayesian-2015}. Crowdsensing is interesting also for
+understanding local phenomena. For this we have created a platform for
+\textbf{gathering and visualizing user experiences about spaces} (indoor such as
+office buildings) via mobile and web interfaces \cite{yousense-2014}. With
+reasoning about these human observations we can support understanding of spaces
+and how people consider about them in different contexts \cite{reasoning-indoor-2018}. With these we have argued that human computation is essential for understanding phenomena and supporting to improve cities. In order to prepare grounds for this we have conducted  \textbf{a survey of people movement analytics studies} in the context of smart cities \cite{survey-movement-analytics}.
+\item Our work on making \textbf{higher level conceptualizations} from raw data is documented in papers about modeling geosensor observations
+  		\cite{devaraju-kauppinen-sensors-2010}
+  		\cite{modeling-sensor-observations-2012}. Similar task has been in our work on creating a usable information layer about the deforestation in the Brazilian Amazon see
+  		\cite{kauppinen2011a} \cite{kauppinen2010e}, and particularly about using
+  		Linked Data technologies to share remote sensing observation data
+  		\cite{kauppinen-remote-sensing-data-2012}. A related work is the methodology for crowdsourcing Linked Spatiotemporal Data after an earthquake and interacting with it with an user interface see
+  		\cite{crowdsourcing-lod-2011} \cite{kauppinen-visualizing-2013}.
+\item Our studies have argued that \textbf{Linked Data} introduces a paradigm shift for \textbf{Geographic Information Science} \cite{linkeddata-paradigmshift-2014} and that it thus is a core component of the Future Spatial Data Infrastructure \cite{futureSDI-2012}
+\item \textbf{Digital Cultural Heritage} has been one of the main themes, especially during my PhD dissertation
+ 		\cite{kauppinen-dissertation-2010} but also more recently \cite{semantic-gazetteer-2021}. This has led to new methods for using Fuzzy Sets to model imprecise temporal periods
+  		\cite{kauppinen-et-al-temporal-relevance-2010} according to how users cognitively rank the relevances. Another related research direction has been to reason about changes \cite{kauppinen-et-al-geospatio-temporal-2010}. One practical result has been SMARTMUSEUM
+		\cite{kauppinen-et-al-smartmuseum-2009,smartmuseum-eva-2009,Ruotsalo-smartmuseum:2009,smartmuseum2013} which matches user profiles with the available semantic annotations thus bridging the cognitive gap between humans and machines. In our studies we did data mining to analyze annotation co-occurrences
+		\cite{kauppinen-et-al-extending-ci-2008}
+and spatial data mining for finding out interesting relations between places
+		\cite{kauppinen-et-al-learning-eswc-2009}.
+
+\item The core result of my PhD \cite{kauppinen-dissertation-2010} was \textbf{The Finnish Spatiotemporal Ontology (SAPO)}:
+\begin{itemize}
+\item First mention about SAPO was made in
+\cite{kauppinen-hyvonen-bridging-the-semantic-2004}
+\item SAPO was built
+using different methods and components. These
+include
+\begin{itemize}
+  \item reasoning about changes (such as merges and splits) in
+administrational regions
+\cite{kauppinen-ontology-time-series-book-2007} \cite{kauppinen-hyvonen-modeling-coverage-between-2005}
+		\cite{kauppinen-geospatialreasoning-ijcai05}
+		, and
+\item a vocabulary for
+		collecting changes supported by a method for creating the temporal parts of
+		regions \cite{kauppinen-et-al-ontology-time-series-2008}.
+\end{itemize}
+\item The benefits of
+		using SAPO is shown via application examples for
+\begin{itemize}		\item managing digital cultural
+		heritage content
+		\cite{kauppinen-et-al-geospatio-temporal-2010},
+		\item for query expansion
+		\cite{tuominen-et-al-onki-query-expansion-2009}, and
+\item for semantic
+autocompletion \cite{sinkkila-et-al-irma-2008}. \end{itemize}
+\item An evaluation in
+		an information retrieval task shows
+		\cite{kauppinen-et-al-geospatio-temporal-2010} that by using SAPO the recall
+		increases considerably without loss in precision.
+		\item A book chapter gives an
+		overview of the research related to SAPO \cite{sapo-in-book-2011}.
+\end{itemize}
+
+\item We have also used ontologies to integrate health information with
+  geoinformation
+  		\cite{info:doi/10.2196/medinform.3531} \cite{geo-health-2012}
+
+
+\item Back in my PhD period I worked on The Finnish Geo-ontology (SUO)
+		\cite{henriksson-kauppinen-hyvonen-suo-2008}
+		\cite{kauppinen-et-al-spatiotemporal-2008}
+		\cite{kauppinen-et-al-ontology-based-modeling-and-visualization-2006}
+and particularly on using geospatial ontologies in CultureSampo
+		\cite{kauppinen-et-al-geospatio-temporal-2010}
+		\cite{kauppinen-deichstetter-hyvonen-temp-o-map2007}
+		\cite{hyvonen-et-al-culturesampo-dh-jac-2009}
+		\cite{hyvonen-et-al-culsa-mw-2009}
+		\cite{hyvonen-et-al-culturesampo-dh-jac-2009}
+		\cite{hyvonen-Kultuuurisampo-2008}
+		\cite{hyvonen-et-al-culturesampo}
+		\cite{CultureSampo2006}
+				\cite{culturesampo-2007}
+and on developing spatiotemporal ontologies and services \cite{kauppinen-et-al-spatiotemporal-2008}
+		\cite{onkigeo-2007}	in the FinnONTO project \cite{hyvonen-et-al-elements-2007}
+		\cite{ruotsalo-et-al-signum-2008}
+		\cite{hyvonen-valo-et-al-creating-a-national-2005}
+		\cite{hyvonen-valo-et-al-finnish-national-2005}
+		\cite{makela-viljanen-et-al-semantic-web-widgets}
+		\cite{ajax-2009}.
+
+\item I have also edited proceedings in the above fields, these include SemSci2018 \cite{semsci2018},
+SemSci2017 \cite{semsci2017}, TSTIP2015 \cite{tstip2015,tstip2015intro}, SAFE2015
+\cite{safe-summary-2015}, JOINT SSA-SMILE 2014 \cite{joint-ssa2014-smile2014},
+VISUAL2014 \cite{visual2014}, LISC 2011 \cite{lisc2011}, LISC 2012
+\cite{lisc2012}, LISC 2013 \cite{lisc2013}, LISC 2014 \cite{lisc2014},
+LISC 2015 \cite{lisc2015}, Geographic Information Observatories 2014
+\cite{gio-2014-proc}, GIScience in the Big Data Age 2012 \cite{giscience-bigdata-2012}, Developments in Artificial Intelligence \cite{hyvonen-et-al-developments-in-artificial-intelligence-and-the-semantic-web-step-2006}, Web Intelligence
+ 			\cite{hyvonen-kauppinen-et-al-proceedings-of-the-2004}
+ 		and XML Finland
+ 			\cite{xml2005}
+\item Further on, as an application of my research
+I have published vocabulary specifications online. These vocabularies are CHANGE \cite{changevocab}, TEACH \cite{teachvocab},
+EXPERIENCE \cite{experiencevocab}, LSC \cite{lscvocab} and TISC \cite{tiscvocab}.
+
+%\item For MSc thesis of Tomi Kauppinen see
+%		\cite{kauppinen-an-ontology-versioning-framework-2004}
+\item Finally, I have authored and co-authored papers also in Finnish, for
+instance about Aalto Online Learning \cite{aole-aikakauskirja-2017}, the Finnish
+Spatiotemporal Ontology SAPO \cite{sapo-raportti}, Geospatial Ontologies \cite{henriksson-kauppinen-positio-2007}, Sensor Web \cite{havainnot-2013}, Semantic Web \cite{kauppinen-ruotsalo-salminen-tiedon-mallintaminen-2005} and Pattern Recognition
+		\cite{hahmot-2003}.
+
+\end{itemize}
+
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+ %   \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\bibliography{publications}
+\bibliographystyle{plain}
+
+\end{document}

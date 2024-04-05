@@ -1,0 +1,869 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+%% Please scroll down to the article you were looking for.
+%% New publications are added as they get published.
+
+%% A separate document briefly categorizes the publications: 
+%%    http://kauppinen.net/tomi/publications-tomi-kauppinen-elaborated.pdf
+%% which is also available as a latex source file: 
+%%    http://kauppinen.net/tomi/publications-tomi-kauppinen-elaborated.tex
+
+%% This file is maintained at http://kauppinen.net/tomi/publications-tomi-kauppinen.bib
+%% Most of the publications available for download at http://kauppinen.net/tomi
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+@article{test,
+	Date-Added = {2014-06-26 11:52:22 +0000},
+	Date-Modified = {2014-06-26 15:28:49 +0000}}
+
+@inproceedings{linkeddata-paradigmshift-2014,
+	Address = {Vienna University of Technology, Austria},
+	Author = {Werner Kuhn and Tomi Kauppinen and Krzysztof Janowicz},
+	Booktitle = {Proceedings of The Eighth International Conference on Geographic Information Science (GIScience2014)},
+	Date-Modified = {2014-06-26 15:18:33 +0000},
+	Keywords = {Linked Science; Linked Data; GIScience; GIS; Geospatial Web; The Brazilian Amazon Rainforest; Time; Spatial data infrastructure},
+	Month = {September},
+	Note = {to appear},
+	Title = {{Linked Data} -- A Paradigm Shift for {Geographic Information Science}},
+	Year = {2014}}
+
+@article{dreieck2013,
+	Author = {Thomas Bartoschek and Gerald Paper and Christian Kray and Jim Jones and Tomi Kauppinen},
+	Date-Modified = {2014-06-26 15:26:40 +0000},
+	Journal = {OSGEO Journal},
+	Keywords = {Gestural Interaction; Human Computer Interaction; The Brazilian Amazon Rainforest; Visual Analytics; Information Visualization; Interaction Design; Linked Science; Data visualization; Linked Data; Time},
+	Number = {11},
+	Publisher = {Open Source Geospatial Foundation},
+	Title = {Gestural Interaction with Spatiotemporal Linked Open Data},
+	Year = {2013}}
+
+@article{kauppinen-et-al-linked-brazilian-amazon-2014,
+	Author = {Kauppinen, T. and de Espindola, G.M. and Jones, J. and Sanchez, A. and Gr\"{a}ler, B. and Bartoschek, T.},
+	Date-Modified = {2014-06-26 11:59:54 +0000},
+	Journal = {Semantic Web Journal},
+	Keywords = {The Brazilian Amazon Rainforest},
+	Number = {2},
+	Publisher = {IOS Press},
+	Title = {{Linked Brazilian Amazon Rainforest Data}},
+	Volume = {5},
+	Year = {2014}}
+
+@inproceedings{hukkinen-kauppinen-2014,
+	Address = {Anissaras, Crete, Greece},
+	Author = {Salli Hukkinen and Tomi Kauppinen},
+	Booktitle = {Proceedings of Workshop on Human-Semantic Web Interaction (HSWI14)},
+	Date-Modified = {2014-06-26 12:07:30 +0000},
+	Keywords = {Visual Analytics; Information Visualization; Data visualization; Interaction Design },
+	Month = {May},
+	Title = {Supporting Visual Exploration of Inter-organization Collaboration},
+	Year = {2014}}
+
+@incollection{kauppinen-et-al-linked-science-2011,
+	Address = {USA},
+	Author = {Tomi Kauppinen AND Alkyoni Baglatzi AND Carsten Ke\ss{}ler},
+	Booktitle = {{Data Intensive Science}},
+	Date-Modified = {2014-06-26 11:52:02 +0000},
+	Editor = {Terence Critchlow AND Kerstin {Kleese-Van Dam}},
+	Keywords = {Linked Science},
+	Publisher = {CRC Press},
+	Title = {{Linked Science: Interconnecting Scientific Assets}},
+	Year = {forthcoming 2012}}
+
+@incollection{spatialatlinkedscience2012,
+	Address = {Columbus, Ohio, USA},
+	Author = {Carsten Ke\ss{}ler and Krzysztof Janowicz and Tomi Kauppinen},
+	Booktitle = {Proceedings of the Seventh International Conference on Geographic Information Science (GIScience2012)},
+	Date-Modified = {2014-06-26 15:26:58 +0000},
+	Editor = {Xiao, N. and Kwan, M.-P. and Goodchild, M.F. and Shekhar, S.},
+	Keywords = {Linked Science; GIScience; Linked Data},
+	Optmonth = {September 18--21},
+	Publisher = {Springer},
+	Title = {{spatial@linkedscience---Exploring Research Field of GIScience with Linked Data}},
+	Year = {2012}}
+
+@inproceedings{dantonio2014,
+	Address = {Castellon, Spain},
+	Author = {Fausto D'Antonio and Paolo Fogliaroni and Tomi Kauppinen},
+	Booktitle = {Proceedings of the 17th AGILE Conference on Geographic Information Science, Connecting a Digital Europe through Location and Place},
+	Date-Modified = {2014-06-26 12:06:15 +0000},
+	Keywords = {OpenStreetMap; Volunteered Geographic Information},
+	Month = {June},
+	Note = {to appear, in press},
+	Title = {{VGI Edit History Reveals Data Trustworthiness and User Reputation}},
+	Year = {2014}}
+
+@inproceedings{kauppinen-remote-sensing-data-2012,
+	Address = {Heraklion, Crete, Greece},
+	Author = {Tomi Kauppinen and Giovana Mira de Espindola and Benedikt Gr\"{a}ler.},
+	Booktitle = {Poster proceedings of the Extended Semantic Web Conference 2012 (ESWC2012)},
+	Date-Modified = {2014-06-26 11:52:06 +0000},
+	Keywords = {Linked Science},
+	Month = {May},
+	Title = {Sharing and Analyzing Remote Sensing Observation Data for {Linked Science}},
+	Year = {2012}}
+
+@inproceedings{ontomaps2012,
+	Address = {Kloster Seeon, Germany},
+	Author = {Falko Schmid and Oliver Kutz and Lutz Frommberger and Till Mossakowski and Tomi Kauppinen and and Cunyuan Cai},
+	Booktitle = {Proceedings of Place-Related Knowledge Acquisition Research (P-KAR) Workshop},
+	Date-Modified = {2014-06-26 15:10:43 +0000},
+	Keywords = {Geospatial Web},
+	Month = {August},
+	Title = {Intuitive and Natural Interfaces for Geospatial Data Classification},
+	Year = {2012}}
+
+@inproceedings{datavisu-eswc-2013,
+	Address = {Montpellier, France},
+	Author = {Miika Alonen and Tomi Kauppinen and Osma Suominen and Eero Hyvonen},
+	Booktitle = {Demo proceedings of the Extended Semantic Web Conference 2013 (ESWC2013)--Semantics and Big Data},
+	Date-Modified = {2014-06-26 12:07:38 +0000},
+	Keywords = {Visual Analytics; Information Visualization; Data visualization},
+	Month = {May},
+	Title = {Exploring the Linked University Data With Visualization Tools},
+	Year = {2013}}
+
+@article{kauppinen-linked-open-science-2011,
+	Author = {Tomi Kauppinen and Giovana Mira de Espindola},
+	Date-Modified = {2014-06-25 14:04:08 +0000},
+	Doi = {10.1016/j.procs.2011.04.076},
+	Issn = {1877-0509},
+	Journal = {Proceedings of the International Conference on Computational Science (ICCS 2011), Procedia Computer Science},
+	Keywords = {Linked Science, The Brazilian Amazon Rainforest},
+	Number = {0},
+	Optnote = {Proceedings of the International Conference on Computational Science, ICCS 2011},
+	Opturl = {http://www.sciencedirect.com/science/article/pii/S1877050911001347},
+	Pages = {726--731},
+	Title = {{Linked Open Science}---Communicating, Sharing and Evaluating Data, Methods and Results for Executable Papers},
+	Volume = {4},
+	Year = {2011},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1016/j.procs.2011.04.076}}
+
+@article{kauppinen-et-al-temporal-relevance-2010,
+	Author = {Tomi Kauppinen and Glauco Mantegari and Panu Paakkarinen and Heini Kuittinen and Eero Hyv\"{o}nen and Stefania Bandini},
+	Date-Modified = {2014-06-26 15:13:28 +0000},
+	Journal = {International Journal of Human-Computer Studies},
+	Keywords = {Fuzzy Sets; Fuzzy Temporal Intervals; Temporal Reasoning; Time; Digital Cultural Heritage; Human Computer Interaction; Information Retrieval},
+	Month = {September},
+	Number = {9},
+	Pages = {549--560},
+	Publisher = {Elsevier},
+	Title = {Determining Relevance of Imprecise Temporal Intervals for Cultural Heritage Information Retrieval},
+	Volume = {68},
+	Year = {2010}}
+
+@article{modeling-sensor-observations-2012,
+	Author = {Anusuriya Devaraju and Tomi Kauppinen},
+	Date-Modified = {2014-06-26 11:58:43 +0000},
+	Editor = {In Nikolaos Konstantinou et al. (eds.)},
+	Journal = {Special Issue on Semantic Sensor Networks, International Journal of Sensors, Wireless Communications and Control},
+	Keywords = {Sensor Networks; Human Computer Interaction; Ontology},
+	Number = {1},
+	Optannote = {ISSN=2210-3279},
+	Publisher = {Bentham Science Publishers},
+	Title = {Sensors Tell More than They Sense: Modeling and Reasoning about Sensor Observations for Understanding Weather Events},
+	Volume = {2},
+	Year = {2012}}
+
+@inproceedings{kauppinen-et-al-ontology-time-series-2008,
+	Author = {Tomi Kauppinen and Jari V\"{a}\"{a}t\"{a}inen and Eero Hyv\"{o}nen},
+	Booktitle = {S. Bechhofer et al.(Eds.): Proceedings of the 5th European Semantic Web Conference 2008 ESWC 2008, LNCS 5021, Tenerife, Spain},
+	Date-Modified = {2014-06-26 15:23:40 +0000},
+	Keywords = {Ontology; Time; Temporal Reasoning; Recommender Systems; Information Retrieval},
+	Month = {June 1-5},
+	Optannote = {semantic web,annotation,metadata,schema,information,knowledge management,history},
+	Optnote = {Springerlink: http://dx.doi.org/10.1007/978-3-540-68234-9_11},
+	Optproject = {http://www.seco.tkk.fi/projects/sw20, http://www.seco.hut.fi/projects/finnonto,http://www.seco.tkk.fi/ontologies/sapo/,http://www.seco.tkk.fi/applications/kulttuurisampo/},
+	Pages = {110-123},
+	Publisher = {Springer-Verlag},
+	Title = {Creating and Using Geospatial Ontology Time Series in a Semantic Cultural Heritage Portal},
+	Year = {2008}}
+
+@proceedings{lisc2011,
+	Address = {Bonn, Germany},
+	Date-Modified = {2014-06-26 15:27:06 +0000},
+	Editor = {Tomi Kauppinen and Line C. Pouchard and Carsten Ke\ss{}ler},
+	Keywords = {Linked Science; Linked Data},
+	Month = {October 24},
+	Note = {Available at ceur-ws.org/Vol-783},
+	Series = {CEUR Workshop Proceedings},
+	Title = {Proceedings of the First International Workshop on Linked Science 2011 (LISC2011)},
+	Volume = {783},
+	Year = {2011}}
+
+@proceedings{lisc2012,
+	Address = {Boston, MA, USA},
+	Date-Modified = {2014-06-26 15:27:06 +0000},
+	Editor = {Tomi Kauppinen and Line C. Pouchard and Carsten Kessler},
+	Keywords = {Linked Science; Linked Data},
+	Month = {November},
+	Publisher = {CEUR Workshop Proceedings, Vol 951, http://ceur-ws.org, ISSN 1613-0073},
+	Series = {CEUR Workshop Proceedings},
+	Title = {Proceedings of the Second International Workshop on Linked Science 2012 (LISC2012)},
+	Url = {http://ceur-ws.org/Vol-951/},
+	Volume = {951},
+	Year = {2012},
+	Bdsk-Url-1 = {http://ceur-ws.org/Vol-951/}}
+
+@proceedings{lisc2013,
+	Address = {Sydney Australia},
+	Date-Modified = {2014-06-26 15:27:06 +0000},
+	Editor = {Paul Groth and Marieke van Erp and Tomi Kauppinen and Jun Zhao and Carsten Kessler and Line C. Pouchard and Carole Goble and Yolanda Gil and Jacco van Ossenbruggen},
+	Keywords = {Linked Science; Linked Data},
+	Month = {October},
+	Publisher = {CEUR Workshop Proceedings},
+	Title = {Proceedings of the 3rd International Workshop on Linked Science 2013---Supporting Reproducibility, Scientific Investigations and Experiments (LISC)},
+	Url = {http://ceur-ws.org/Vol-1116/},
+	Volume = {Vol-1116},
+	Year = {2013},
+	Bdsk-Url-1 = {http://ceur-ws.org/Vol-1116/}}
+
+@proceedings{giscience-bigdata-2012,
+	Address = {Columbus, Ohio, USA},
+	Date-Modified = {2014-06-26 15:11:00 +0000},
+	Editor = {Krzysztof Janowicz and Carsten Ke{\ss}ler and Tomi Kauppinen and Dave Kolas and Simon Scheider},
+	Keywords = {GIScience},
+	Month = {September},
+	Title = {Proceedings of the Workshop on GIScience in the Big Data Age, In conjunction with the seventh International Conference on Geographic Information Science 2012 (GIScience 2012)},
+	Year = {2012}}
+
+@inproceedings{tilahun-kauppinen-swat4ls-2012,
+	Author = {Biniyam Tilahun and Tomi Kauppinen},
+	Booktitle = {Poster at International SWAT4LS Workshop---Semantic Web Applications and Tools for Life Sciences},
+	Date-Modified = {2014-06-26 15:10:18 +0000},
+	Keywords = {Linked Data; Health Information},
+	Month = {November},
+	Title = {Potential of {Linked Open Data} in Health Information Representation on the {Semantic Web}},
+	Year = {2012}}
+
+@inproceedings{baglatzi-kauppinen-ekaw2012-2012,
+	Address = {National University of Ireland, Galway, Ireland},
+	Author = {Alkyoni Baglatzi and Tomi Kauppinen},
+	Booktitle = {Demos and Posters of the 18th International Conference on Knowledge Engineering and Knowledge Management (EKAW2012)},
+	Date-Modified = {2014-06-26 11:57:58 +0000},
+	Keywords = {Linked Science},
+	Month = {October},
+	Title = {Managing and Representing Scientific Findings about the Environment},
+	Year = {2012}}
+
+@inproceedings{kessler-kauppinen-lodum-2012,
+	Address = {Heraklion, Crete, Greece},
+	Author = {Carsten Kessler and Tomi Kauppinen},
+	Booktitle = {Demos the Extended Semantic Web Conference 2012 (ESWC2012)},
+	Date-Modified = {2014-06-26 15:10:25 +0000},
+	Keywords = {Linked Data},
+	Month = {May},
+	Title = {Linked Open Data University of Muenster---Infrastructure and Applications},
+	Year = {2012}}
+
+@inproceedings{futureSDI-2012,
+	Address = {Instanbul},
+	Author = {Laura Diaz and Albert Remke and Tomi Kauppinen and Auriol Degbelo and Theodor Foerster and Christoph Stasch and Matthes Rieke and Bastian Schaeffer and Bastian Baranski and Arne Broering and Andreas Wytzisk},
+	Booktitle = {Proceedings of the INSPIRE Conference 2012},
+	Date-Modified = {2014-06-26 12:08:41 +0000},
+	Keywords = {Spatial data infrastructure},
+	Month = {June},
+	Title = {Future SDI---Impulses from Geoinformatics Research and IT Trends},
+	Year = {2012}}
+
+@inproceedings{geo-health-2012,
+	Address = {Avignon, France},
+	Author = {Nuref\c{s}an G\"{u}r and Laura D\'{i}az and Tomi Kauppinen},
+	Booktitle = {Proceedings of the 15th AGILE International Conference on Geographic Information Science (AGILE2012)},
+	Date-Modified = {2014-06-26 15:26:04 +0000},
+	Keywords = {Ontology; Health Information; GIS},
+	Month = {April},
+	Optnote = {April 24-27, 2012},
+	Title = {GI Systems for Public Health with an Ontology Based Approach},
+	Year = {2012}}
+
+@inproceedings{crowdsourcing-lod-2011,
+	Address = {Bonn, Germany},
+	Author = {Jens Ortmann and Minu Limbu and Dong Wang and Tomi Kauppinen},
+	Booktitle = {Proceedings of Terra Cognita 2011, The 10th International Semantic Web Conference (ISWC2011)},
+	Date-Modified = {2014-06-26 12:08:12 +0000},
+	Keywords = {Crowdsourcing},
+	Month = {October},
+	Title = {Crowdsourcing Linked Open Data for Disaster Management},
+	Year = {2011}}
+
+@inproceedings{kauppinen2011a,
+	Address = {M{\"u}nster, Germany,},
+	Author = {Tomi Kauppinen and Giovana Mira de Espindola},
+	Booktitle = {Geoinformatik 2011---GeoChange},
+	Date-Modified = {2014-06-26 11:59:54 +0000},
+	Keywords = {The Brazilian Amazon Rainforest},
+	Month = {June},
+	Title = {Ontology-Based Modeling of Land Change Trajectories in the {Brazilian Amazon}},
+	Year = {2011}}
+
+@inbook{geosensor-data-and-vgi-2010,
+	Author = {Simon Scheider and Carsten Ke{\ss}ler and Jens Ortmann and Anusuriya Devaraju and Johannes Trame and Tomi Kauppinen and Werner Kuhn},
+	Chapter = {Semantic Referencing of Geosensor Data and Volunteered Geographic Information},
+	Date-Modified = {2014-06-26 15:16:20 +0000},
+	Editor = {Naveen Ashish and Amit Sheth},
+	Keywords = {OpenStreetMap; Volunteered Geographic Information; Sensor Networks},
+	Publisher = {Springer},
+	Series = {Springer book series, Semantic Web and Beyond: Computing for Human Experience},
+	Title = {Geospatial Semantics and Semantic-Web: Foundations, Algorithms, Applications},
+	Year = {2011}}
+
+@inbook{sapo-in-book-2011,
+	Author = {Eero Hyv\"{o}nen and Jouni Tuominen and Tomi Kauppinen and Jari V\"{a}\"{a}t\"{a}inen},
+	Chapter = {Representing and Utilizing Changing Historical Places as an Ontology Timeseries},
+	Date-Modified = {2014-06-26 12:04:07 +0000},
+	Editor = {Naveen Ashish and Amit Sheth},
+	Keywords = {Ontology},
+	Publisher = {Springer},
+	Series = {Springer book series, Semantic Web and Beyond: Computing for Human Experience},
+	Title = {Geospatial Semantics and Semantic-Web: Foundations, Algorithms, Applications},
+	Year = {2011}}
+
+@inproceedings{openstreetmap-editing-2011,
+	Address = {Belfast, Maine, USA},
+	Author = {Carsten Ke{\ss}ler and Johannes Trame and Tomi Kauppinen},
+	Booktitle = {proceedings of Workshop on Identifying Objects, Processes and Events in Spatio-Temporally Distributed Data (IOPE 2011), Conference on Spatial Information Theory: COSIT'11},
+	Date-Modified = {2014-06-26 12:06:15 +0000},
+	Keywords = {OpenStreetMap; Volunteered Geographic Information},
+	Month = {September},
+	Title = {Tracking Editing Processes in Volunteered Geographic Information: The Case of OpenStreetMap},
+	Year = {2011}}
+
+@inproceedings{openstreetmap-provenance-2011,
+	Address = {Belfast, Maine, USA},
+	Author = {Carsten Ke{\ss}ler and Johannes Trame and Tomi Kauppinen},
+	Booktitle = {Conference on Spatial Information Theory: COSIT'11},
+	Date-Modified = {2014-06-26 12:06:15 +0000},
+	Keywords = {OpenStreetMap; Volunteered Geographic Information},
+	Month = {September},
+	Title = {Provenance and Trust in Volunteered Geographic Information: The Case of OpenStreetMap},
+	Year = {2011}}
+
+@inproceedings{kauppinen2010e,
+	Address = {Campos do Jord{\~a}o, S{\~a}o Paulo, Brazil},
+	Author = {Giovana Mira de Espindola and Tomi Kauppinen},
+	Booktitle = {GeoChange 2010---GIScience for Environmental Change},
+	Date-Modified = {2014-06-26 11:59:54 +0000},
+	Keywords = {The Brazilian Amazon Rainforest},
+	Month = {November},
+	Title = {Semantic Linking of Data for the {Brazilian Amazon Rainforest} Statistics},
+	Year = {2010}}
+
+@inproceedings{devaraju-kauppinen-sensors-2010,
+	Address = {Campos do Jord{\~a}o, S{\~a}o Paulo, Brazil},
+	Author = {Anusuriya Devaraju and Tomi Kauppinen},
+	Booktitle = {GeoChange 2010---GIScience for Environmental Change},
+	Date-Modified = {2014-06-26 15:15:52 +0000},
+	Keywords = {Ontology; Sensor Networks},
+	Month = {November},
+	Title = {Geo-Processes and Properties Observed by Sensors},
+	Year = {2010}}
+
+@inproceedings{kauppinen-geospatialreasoning-ijcai05,
+	Address = {Edinburgh, Scotland},
+	Author = {Tomi Kauppinen and Eero Hyv\"{o}nen},
+	Booktitle = {IJCAI-05 Workshop on Spatial and Temporal Reasoning -- Working Notes},
+	Date-Modified = {2014-06-26 12:04:07 +0000},
+	Editor = {Hans W. Guesgen},
+	Keywords = {Ontology},
+	Month = {July 30 -- August 5},
+	Optannote = {semantic web, ontology, coverage, time, spatial and temporal reasoning, gis, information retrieval, web intelligence},
+	Optnote = {http://www.cs.auckland.ac.nz/~hans/spacetime/ijcai05strws/},
+	Optorganization = {Nineteenth International Joint Conference on Artificial Intelligence IJCAI-05},
+	Optvolume = {1},
+	Pages = {7--15},
+	Publisher = {Nineteenth International Joint Conference on Artificial Intelligence {IJCAI-05}},
+	Title = {Geospatial Reasoning over Ontology Changes in Time},
+	Year = {2005}}
+
+@inproceedings{Ruotsalo-smartmuseum:2009,
+	Address = {Trento, Italy},
+	Author = {Tuukka Ruotsalo and Eetu M\"{a}kel\"{a} and Tomi Kauppinen and Eero Hyv\"{o}nen and Krister Haav and Ville Rantala and Matias Frosterus and Nima Dokoohaki and Mihhail Matskin},
+	Booktitle = {Proceedings of the International Conferences on Digital Libraries and the Semantic Web 2009 (ICSD2009)},
+	Date = {7-11},
+	Date-Modified = {2014-06-26 15:12:37 +0000},
+	Keywords = {SmartMuseum; Digital Cultural Heritage; Personalization; Context-aware; Recommender Systems},
+	Month = {September},
+	Note = {Trento, Italy},
+	Title = {Smartmuseum: Personalized Context-aware Access to Digital Cultural Heritage},
+	Year = {2009}}
+
+@inbook{henriksson-kauppinen-positio-2007,
+	Address = {Helsinki},
+	Author = {Riikka Henriksson and Tomi Kauppinen},
+	Date-Modified = {2014-06-26 15:04:51 +0000},
+	Keywords = {GIS},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto http://www.seco.hut.fi/ontologies/suo},
+	Publisher = {Positio 1/2007. Maanmittauslaitos, Paikkatietojen yhteisk\"{a}yt\"{o}n edist\"{a}minen},
+	Title = {Ontologioilla paikkatietojen sis\"{a}lt\"{o} hallintaan},
+	Year = {2007}}
+
+@inbook{henriksson-kauppinen-hyvonen-suo-2008,
+	Abstract = {In this paper we examine 1) the scope of geo-ontologies used especially for the 
+purposes of information retrieval on the Web, 2) the core geographical concepts and their mutual relations, and 3) the 
+properties the concepts have. Furthermore, we present the Finnish geo-ontology (Suomalainen 
+paikkaontologia, SUO) and discuss the theories and principles that have governed the development process, as well as 
+the limitations and requirements the use of geographical dictionaries as an instance data source have 
+imposed to the content and the structure of SUO.},
+	Author = {Riikka Henriksson and Tomi Kauppinen and Eero Hyv\"{o}nen},
+	Date-Modified = {2014-06-26 12:04:07 +0000},
+	Keywords = {Ontology},
+	Month = {April 21-25},
+	Optannote = {semantic web, knowledge management},
+	Optproject = {http://www.seco.tkk.fi/projects/sw20, http://www.seco.tkk.fi/projects/finnonto, http://www.seco.tkk.fi/ontologies/suo/,http://www.seco.tkk.fi/services/onkipaikka/},
+	Publisher = {Location and the Web (LocWeb) 2008 workshop, 17th International World Wide Web Conference WWW 2008, ACM International Conference Proceeding Series; Vol. 300, Pages 57-60, Beijing, China},
+	Title = {Core Geographical Concepts: Case Finnish Geo-Ontology},
+	Year = {2008}}
+
+@inproceedings{hyvonen-et-al-culturesampo-dh-eswc-2009,
+	Author = {Eero Hyv\"{o}nen and Eetu M\"{a}kel\"{a} and Tomi Kauppinen and Olli Alm and Jussi Kurki, Tuukka Ruotsalo and Katri Sepp\"{a}l\"{a} and Joeli Takala and Kimmo Puputti and Heini Kuittinen, Kim Viljanen and Jouni Tuominen and Tuomas Palonen and Matias Frosterus, Reetta Sinkkil\"{a} and Panu Paakkarinen and Joonas Laitio and Katariina Nyberg},
+	Booktitle = {Proceedings of the 6th European Semantic Web Conference (ESWC2009), Heraklion, Greece},
+	Date-Modified = {2014-06-26 15:06:56 +0000},
+	Keywords = {CultureSampo; Digital Cultural Heritage},
+	Month = {May 31 - June 4},
+	Note = {Springer-Verlag},
+	Optproject = {http://www.seco.tkk.fi/projects/sw20 http://www.seco.tkk.fi/projects/finnonto http://www.seco.tkk.fi/services/onki http://www.seco.tkk.fi/applications/kulttuurisampo/ http://www.seco.tkk.fi/applications/kulttuurisampo/kalevala/},
+	Title = {CultureSampo -- A National Publication System of Cultural Heritage on the Semantic Web 2.0},
+	Year = {2009}}
+
+@inproceedings{hyvonen-et-al-culsa-mw-2009,
+	Author = {Eero Hyv\"{o}nen and Eetu M\"{a}kel\"{a} and Tomi Kauppinen and Olli Alm and Jussi Kurki, Tuukka Ruotsalo and Katri Sepp\"{a}l\"{a} and Joeli Takala and Kimmo Puputti and Heini Kuittinen, Kim Viljanen and Jouni Tuominen and Tuomas Palonen and Matias Frosterus, Reetta Sinkkil\"{a} and Panu Paakkarinen and Joonas Laitio and Katariina Nyberg},
+	Booktitle = {Proceedings, Museums and the Web 2009, Indianapolis, USA},
+	Date-Modified = {2014-06-26 15:06:56 +0000},
+	Keywords = {CultureSampo; Digital Cultural Heritage},
+	Month = {April 15-18},
+	Optproject = {http://www.seco.tkk.fi/projects/sw20 http://www.seco.tkk.fi/projects/finnonto http://www.seco.tkk.fi/services/onki http://www.seco.tkk.fi/applications/kulttuurisampo/ http://www.seco.tkk.fi/applications/kulttuurisampo/kalevala/},
+	Title = {{CultureSampo} -- {Finnish} Culture on the Semantic Web 2.0. Thematic Perspectives for the End-user},
+	Year = {2009}}
+
+@inproceedings{hyvonen-et-al-culturesampo-dh-jac-2009,
+	Author = {Eero Hyv\"{o}nen and Eetu M\"{a}kel\"{a} and Tomi Kauppinen and Olli Alm and Jussi Kurki, Tuukka Ruotsalo and Katri Sepp\"{a}l\"{a} and Joeli Takala and Kimmo Puputti and Heini Kuittinen, Kim Viljanen and Jouni Tuominen and Tuomas Palonen and Matias Frosterus, Reetta Sinkkil\"{a} and Panu Paakkarinen and Joonas Laitio and Katariina Nyberg},
+	Booktitle = {Proceedings of the 1st International Symposium on Digital Humanities for Japanese Arts and Cultures (DH-JAC-2009), Ritsumeikan University, Kyoto, Japan},
+	Date-Modified = {2014-06-26 15:06:56 +0000},
+	Keywords = {CultureSampo; Digital Cultural Heritage},
+	Month = {March},
+	Optproject = {http://www.seco.tkk.fi/projects/sw20 http://www.seco.tkk.fi/projects/finnonto http://www.seco.tkk.fi/services/onki http://www.seco.tkk.fi/applications/kulttuurisampo/ http://www.seco.tkk.fi/applications/kulttuurisampo/kalevala/},
+	Title = {CultureSampo -- Finnish Cultural Heritage Collections on the Semantic Web 2.0},
+	Year = {2009}}
+
+@inproceedings{hyvonen-Kultuuurisampo-2008,
+	Author = {Eero Hyv\"{o}nen and Eetu M\"{a}kel\"{a} and Tomi Kauppinen and Olli Alm and Jussi Kurki and Tuukka Ruotsalo and Katri Sepp\"{a}l\"{a} and Joeli Takala and Kimmo Puputti and Heini Kuittinen and Kim Viljanen and Jouni Tuominen and Tuomas Palonen and Matias Frosterus, Reetta Sinkkil\"{a} and Panu Paakkarinen and Joonas Laitio and Katariina Nyberg},
+	Booktitle = {Semantic Computing Research Group, Helsinki University of Technology and University of Helsinki},
+	Date-Modified = {2014-06-26 15:06:56 +0000},
+	Keywords = {CultureSampo; Digital Cultural Heritage},
+	Month = {Sept 29},
+	Optproject = {http://www.seco.tkk.fi/projects/sw20 http://www.seco.tkk.fi/projects/finnonto http://www.seco.tkk.fi/services/onki http://www.seco.tkk.fi/applications/kulttuurisampo/ http://www.seco.tkk.fi/applications/kulttuurisampo/kalevala},
+	Title = {CultureSampo -- A Collective Memory of Finnish Cultural Heritage on the Semantic Web 2.0},
+	Year = {2008}}
+
+@inproceedings{hyvonen-et-al-culturesampo,
+	Abstract = {This paper presents the semantic portal CULTURESAMPO---Finnish Culture on the
+Semantic Web. The portal provides memory organizations and other cultural
+content publishers with a national, shared semantic publication channel for heteroge-
+nous cultural contents. The content comes from over ten organizations and is annotated
+using various ontologies of the FinnONTO infrastructure. For the end-user, intel-
+ligent semantic search, recommendation, and visualization services for accessing and
+learning about cultural heritage are provided.},
+	Author = {Eero Hyv\"{o}nen and Eetu M\"{a}kel\"{a} and Tuukka Ruotsalo and Tomi Kauppinen and Olli Alm and Jussi Kurki and Joeli Takala and Kimmo Puputti and Heini Kuittinen},
+	Booktitle = {Posters of the 5th European Semantic Web Conference 2008 (ESWC 2008), Tenerife, Spain},
+	Date-Modified = {2014-06-26 15:06:56 +0000},
+	Keywords = {CultureSampo; Digital Cultural Heritage},
+	Month = {June 1-5},
+	Optannote = {semantic web, cultural heritage, web publishing, interoperability, ontologies},
+	Optproject = {http://www.seco.tkk.fi/projects/sw20, http://www.seco.hut.fi/projects/finnonto/, http://www.seco.tkk.fi/applications/kulttuurisampo/},
+	Title = {CultureSampo--Finnish Culture on the Semantic Web},
+	Year = {2008}}
+
+@proceedings{hyvonen-et-al-developments-in-artificial-intelligence-and-the-semantic-web-step-2006,
+	Date-Modified = {2014-06-26 15:11:51 +0000},
+	Editor = {Eero Hyv\"{o}nen and Tomi Kauppinen and Jukka Kortela and Mikko Laukkanen and Tapani Raiko and Kim Viljanen},
+	Keywords = {Artificial Intelligence; Semantic Web},
+	Month = {October 26-27},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto},
+	Opturl = {http://www.stes.fi/scai2006/proceedings/scai_proceedings.html},
+	Organization = {Finnish AI Society, Finland},
+	Title = {Developments in Artificial Intelligence and the Semantic Web - Proceedings of the 12th Finnish AI Conference STeP 2006},
+	Year = {2006}}
+
+@inproceedings{hyvonen-et-al-elements-2007,
+	Abstract = {This article presents the vision and results of creating the basis for a national semantic web content infrastructure in Finland in 2003-2007. The main elements of the infrastructure are shared and open metadata schemas, core ontologies, and public ontology services. Several practical applications testing and demonstrating the usefulness of the infrastructure are overviewed in the fields of eCulture, eHealth, eGovernment, eLearning, and eCommerce.},
+	Author = {Eero Hyv\"{o}nen and Kim Viljanen and Eetu M\"{a}kel\"{a} and Tomi Kauppinen and Tuukka Ruotsalo and Onni Valkeap\"{a}\"{a} and Katri Sepp\"{a}l\"{a} and Osma Suominen and Olli Alm and Robin Lindroos and Teppo K\"{a}ns\"{a}l\"{a} and Riikka Henriksson and Matias Frosterus and Jouni Tuominen and Reetta Sinkkil\"{a} and Jussi Kurki},
+	Booktitle = {Proceedings of the First International Semantic Computing Conference (IEEE ICSC 2007), Irvine, California},
+	Date-Modified = {2014-06-26 12:04:07 +0000},
+	Keywords = {Ontology},
+	Month = {September},
+	Note = {IEEE Press},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto, http://www.seco.tkk.fi/services/onki},
+	Title = {Elements of a National Semantic Web Infrastructure - Case Study Finland on the Semantic Web (Invited paper)},
+	Year = {2007}}
+
+@inproceedings{onkigeo-2007,
+	Abstract = {Geographic place names are widely used but
+are semantically often highly ambiguous. For example, there are 491
+places in Finland sharing the same name ``Isosaari'' (great island)
+that are instances of several geographical classes, such as Island,
+Forest, Peninsula, Inhabited area, etc. Referencing
+unambiguously to a particular ``Isosaari'',
+either when annotating content or during information retrieval, can
+be quite problematic and requires usage of advanced search methods
+and maps for semantic disambiguation. This paper presents an
+ontology server, ONKI-Paikka, for solving the place finding and
+place name disambiguation problem. In ONKI-Paikka, places can be found by a faceted search
+engine, combined with semantic autocompletion and a map service
+for constraining search and for visualizing results. The service can
+be connected to legacy applications cost-effectively by using
+Ajax-technology in the same spirit as Google Maps that is used in
+ONKI-Paikka as a subservice.},
+	Author = {Eero Hyv\"{o}nen and Robin Lindroos and Tomi Kauppinen and Riikka Henriksson},
+	Booktitle = {Poster Proceedings of the International Semantic Web Conference (ISWC 2007), Busan, Korea},
+	Date-Modified = {2014-06-26 12:02:33 +0000},
+	Keywords = {Geospatial Web},
+	Month = {Nov},
+	Optannote = {semantic web, knowledge management, Finland},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto, http://www.seco.hut.fi/ontologies/yso, http://www.seco.hut.fi/services/onkipaikka},
+	Opturl = {http://www.seco.hut.fi/publications/2007/hyvonen-et-al-ontology-2007.pdf},
+	Title = {An ontology service for geographical content},
+	Year = {2007}}
+
+@proceedings{hyvonen-kauppinen-et-al-proceedings-of-the-2004,
+	Date-Modified = {2014-06-26 15:11:24 +0000},
+	Editor = {Eero Hyv\"{o}nen and Tomi Kauppinen and Mirva Salminen and Kim Viljanen and Pekka Ala-Siuru},
+	Keywords = {Web Intelligence},
+	Month = {September 1-3},
+	Optorganization = {Finnish AI Society, Finland},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto},
+	Opturl = {http://www.cs.helsinki.fi/group/seco/conference/step2004/},
+	Title = {Web Intelligence--Proceedings of the 11th Finnish AI Conference},
+	Year = {2004}}
+
+@inproceedings{hyvonen-valo-et-al-creating-a-national-2005,
+	Author = {Eero Hyv\"{o}nen and Arttu Valo and Katri Sepp\"{a}l\"{a} and Tomi Kauppinen and Ville Komulainen and Tuukka Ruotsalo and Mirva Salminen and Anu Ylisalmi},
+	Booktitle = {Poster paper, 4th International Semantic Web Conference},
+	Date-Modified = {2014-06-26 15:05:15 +0000},
+	Keywords = {Semantic Web},
+	Month = {Nov},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto},
+	Opturl = {http://www.seco.hut.fi/publications/2005/hyvonen-valo-et-al-creating-a-national-2005.pdf},
+	Title = {Creating a National Content and Service Infrastructure for the Semantic Web},
+	Year = {2005}}
+
+@inproceedings{hyvonen-valo-et-al-finnish-national-2005,
+	Author = {Eero Hyv\"{o}nen and Arttu Valo and Ville Komulainen and Katri Sepp\"{a}l\"{a} and Tomi Kauppinen and Tuukka Ruotsalo and Mirva Salminen and Anu Ylisalmi},
+	Booktitle = {Proceedings of International Conference on Dublin Core and Metadata Applications (DC 2005)},
+	Date-Modified = {2014-06-26 15:05:22 +0000},
+	Keywords = {Semantic Web},
+	Month = {Nov},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto http://www.seco.hut.fi/ontologies/yso},
+	Opturl = {http://www.seco.hut.fi/publications/2005/hyvonen-valo-et-al-finnish-national-2005.pdf},
+	Title = {Finnish National Ontologies for the Semantic Web - Towards a Content and Service Infrastructure},
+	Year = {2005}}
+
+@inproceedings{sinkkila-et-al-irma-2008,
+	Abstract = {Many tasks on the semantic web require the user to choose concepts 
+from a limited vocabulary e.g. for describing an indexed resource or 
+for use in semantic search. Semantic autocompletion interfaces offer 
+an efficient way for concept selection. However, these interfaces 
+usually do not expose the semantic context of the matched concepts, 
+thereby making it hard to know if a matched concept is the right one, 
+as well as hiding possibly more appropriate choices. Ontology 
+browsers, on the other hand, show context but do not allow quick 
+discovery or embedding into other applications. To lessen these 
+problems, we present an interface combining semantic autocompletion 
+with in-place ontological context navigation. Because required context 
+differs between ontologies, the implementation was designed to make it 
+easy to add different contexts and visualizations.  To test the 
+applicability of our idea and implementation the, system was tested on 
+three ontologies with different requirements and structure. },
+	Author = {Reetta Sinkkil\"{a} and Eetu M\"{a}kel\"{a} and Tomi Kauppinen and Eero Hyv\"{o}nen},
+	Booktitle = {First International Workshop on Semantic Metadata Management and Applications, SeMMA 2008, Located at the Fifth European Semantic Web Conference (ESWC 2008), Tenerife, Spain, June 2nd, 2008. Proceedings},
+	Date-Modified = {2014-06-26 12:04:07 +0000},
+	Editor = {Khalid Belhajjame and Mathieu d'Aquin and Peter Haase and Paolo Missier},
+	Keywords = {Ontology},
+	Location = {Tenerife, Spain},
+	Month = {June 1-5},
+	Note = {http://ceur-ws.org/Vol-346/5.pdf},
+	Optproject = {http://www.seco.tkk.fi/projects/sw20, http://www.seco.hut.fi/projects/finnonto, http://www.seco.tkk.fi/services/irma},
+	Pages = {61-68},
+	Publisher = {CEUR-WS.org},
+	Series = {CEUR Workshop Proceedings},
+	Title = {Combining Context Navigation with Semantic Autocompletion to Solve Problems in Concept Selection},
+	Volume = {346},
+	Year = {2008}}
+
+@mastersthesis{kauppinen-an-ontology-versioning-framework-2004,
+	Author = {Tomi Kauppinen},
+	Date-Modified = {2014-06-26 15:15:36 +0000},
+	Keywords = {Ontology; Time},
+	Location = {Helsinki, Finland},
+	Optmonth = {June},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto},
+	Opturl = {http://www.seco.hut.fi/publications/2004/kauppinen-an-ontology-versioning-framework-2004.pdf},
+	Publisher = {Department of Computer Science, University of Helsinki},
+	School = {University of Helsinki},
+	Title = {An Ontology Versioning Framework},
+	Year = {2004}}
+
+@phdthesis{kauppinen-dissertation-2010,
+	Author = {Tomi Kauppinen},
+	Date-Modified = {2014-06-26 15:23:49 +0000},
+	Keywords = {GIS; Time; Temporal Reasoning; Human Computer Interaction; Semantic Web; Ontology; Geospatial Web; Fuzzy Temporal Intervals; Fuzzy Sets; Digital Cultural Heritage; CultureSampo; Crowdsourcing; Context-aware; Artificial Intelligence; Information Retrieval},
+	Month = {April},
+	Optannote = {semantic web, cultural heritage, geo-ontologies},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto, http://www.seco.hut.fi/projects/smartmuseum, http://www.seco.hut.fi/projects/sw20,http://www.seco.tkk.fi/applications/kulttuurisampo/},
+	School = {Aalto University, School of Science and Technology, Espoo},
+	Title = {Methods for Creating and Using Geospatio-temporal Semantic Web},
+	Url = {http://lib.tkk.fi/Diss/2010/isbn9789526030593/},
+	Year = {2010},
+	Bdsk-Url-1 = {http://lib.tkk.fi/Diss/2010/isbn9789526030593/}}
+
+@inproceedings{kauppinen-et-al-extending-ci-2008,
+	Abstract = {Ontologies aim to capture knowledge about things and their relationships. Publishing ontologies on the Semantic Web enables people and 
+  organizations to use shared ontologies in annotating e.g. photographs, videos, music, and
+  other types of cultural objects. Search engines also use relationships provided
+  by ontologies in semantic search, e.g. for query expansion or for view-based
+  search. However, building ontologies is a time-consuming process, and it should
+  be helped by automatic finding of interesting, possible relationships. Finding the
+  correct concept for annotation purposes is helped by subsumption and partonomy
+  hierarchies and associative relationships. In this paper we show how an analysis
+  of co-occurrences of concepts in annotations can be used to provide interesting
+  relationships for enriching ontological structures. We use association rule mining techniques and test the idea using a set of annotations of cultural objects in
+  CULTURESAMPO portal and the Finnish General Upper Ontology YSO. The results are visualized in the ONKI SKOS browser to give an additional layer on
+  top of the original relationships of the YSO ontology. An analysis shows that
+  best ranked relationships should also be included in the ontology as subclassof or
+  associative relationships.
+  },
+	Author = {Tomi Kauppinen and Heini Kuittinen and Jouni Tuominen and Katri Sepp\"{a}l\"{a} and Eero Hyv\"{o}nen},
+	Booktitle = {Proceedings of the ASWC 2008 Workshop on Collective Intelligence (ASWC-CI 2008) organized as a part of the 3rd Asian Semantic Web Conference (ASWC 2008), Bangkok, Thailand},
+	Date-Modified = {2014-06-26 15:06:56 +0000},
+	Keywords = {CultureSampo; Digital Cultural Heritage},
+	Month = {February 2-5},
+	Optannote = {semantic web,annotation,metadata,knowledge management,tag,collective intelligence},
+	Optnote = {http://www.hlt.nectec.or.th/ci08},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto,http://www.seco.hut.fi/projects/smartmuseum,http://www.seco.hut.fi/projects/sw20,http://www.seco.tkk.fi/ontologies/yso/,http://www.seco.tkk.fi/applications/kulttuurisampo/,http://www.seco.tkk.fi/services/onki},
+	Title = {Extending an Ontology by Analyzing Annotation Co-occurrences in a Semantic Cultural Heritage Portal},
+	Year = {2009}}
+
+@inproceedings{kauppinen-et-al-geospatio-temporal-2010,
+	Author = {Tomi Kauppinen and Panu Paakkarinen and Eetu M\"{a}kel\"{a} and Heini Kuittinen and Jari V\"{a}\"{a}t\"{a}inen and Eero Hyv\"{o}nen},
+	Booktitle = {Digital Culture and E-Tourism: Technologies, Applications and Management Approaches},
+	Date-Modified = {2014-06-26 15:23:07 +0000},
+	Editors = {Miltiadis Lytras and Ernesto Damiani and Lily Diaz and Patricia Ordonez De Pablos},
+	Keywords = {Human Computer Interaction; Digital Cultural Heritage; Information Retrieval},
+	Optannote = {semantic web,cultural heritage, geo-ontologies},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto,http://www.seco.hut.fi/projects/smartmuseum,http://www.seco.hut.fi/projects/sw20,http://www.seco.tkk.fi/applications/kulttuurisampo/},
+	Title = {Geospatio-temporal Semantic Web for Cultural Heritage},
+	Year = {2010}}
+
+@inproceedings{kauppinen-et-al-learning-eswc-2009,
+	Abstract = {Semantic web techniques can be used to relate two things together.
+However, usually this relation is not accompanied with a measure that would tell how interesting the relation is. Data mining tradition provides interestingness measures; it is natural to try and fit semantic web and data mining traditions  
+together. In this paper we use support and confidence values provided by association rule mining as interestingness measures for relations. The presented method is 
+tailored to location ontologies in order to find out what interesting mutual relations two places have based on annotations in the cultural heritage domain. The 
+method also uses ontology-based reasoning to group places together. We present tests of running the method against a set of over 60,000 annotations in order to
+find out cultural heritage connections between places.},
+	Author = {Tomi Kauppinen and Kimmo Puputti and Panu Paakkarinen and Heini Kuittinen and Jari V\"{a}\"{a}t\"{a}inen and Eero Hyv\"{o}nen},
+	Booktitle = {Proceedings of the Workshop on Inductive Reasoning and Machine Learning on the Semantic Web (IRMLeS2009), The 6th Annual European Semantic Web Conference (ESWC2009)},
+	Date-Modified = {2014-06-26 15:27:38 +0000},
+	Keywords = {Visual Analytics; Information Visualization; Data visualization; Digital Cultural Heritage},
+	Month = {May 31 - June 4},
+	Optannote = {semantic web,data mining,tag,collective intelligence},
+	Optnote = {http://irmles2009.di.uniba.it/},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto,http://www.seco.hut.fi/projects/smartmuseum,http://www.seco.hut.fi/projects/sw20,http://www.seco.tkk.fi/applications/kulttuurisampo/},
+	Title = {Learning and Visualizing Cultural Heritage Connections between Places on the Semantic Web},
+	Year = {2009}}
+
+@inproceedings{kauppinen-et-al-ontology-based-modeling-and-visualization-2006,
+	Author = {Tomi Kauppinen and Riikka Henriksson and Jari V\"{a}\"{a}t\"{a}inen and Christine Deichstetter and Eero Hyv\"{o}nen},
+	Booktitle = {Developments in Artificial Intelligence and the Semantic Web - Proceedings of the 12th Finnish AI Conference STeP 2006},
+	Date-Modified = {2014-06-26 15:28:04 +0000},
+	Keywords = {Visual Analytics; Information Visualization; Data visualization; Digital Cultural Heritage; Time},
+	Month = {October 26-27},
+	Optannote = {semantic web, spatio-temporal knowledge, ontologies},
+	Opteditor = {Eero Hyv\"{o}nen and Tomi Kauppinen and Jukka Kortela and Mikko Laukkanen and Tapani Raiko and Kim Viljanen},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto http://www.seco.hut.fi/ontologies/sapo http://www.seco.hut.fi/ontologies/suo},
+	Title = {Ontology-based Modeling and Visualization of Cultural Spatio-temporal Knowledge},
+	Year = {2006}}
+
+@inproceedings{kauppinen-et-al-spatiotemporal-2008,
+	Address = {Tenerife, Spain},
+	Author = {Tomi Kauppinen and Riikka Henriksson and Reetta Sinkkil\"{a} and Robin Lindroos and Jari V\"{a}\"{a}t\"{a}inen and Eero Hyv\"{o}nen},
+	Booktitle = {Proceedings of the 1st international workshop on Identity and Reference on the Semantic Web (IRSW2008), 5th European Semantic Web Conference 2008 (ESWC 2008)},
+	Date-Modified = {2014-06-26 12:04:07 +0000},
+	Keywords = {Ontology},
+	Month = {June 1-5},
+	Optannote = {semantic web,annotation,metadata,schema,information,knowledge management,history},
+	Optnote = {http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-422/},
+	Optproject = {http://www.seco.tkk.fi/projects/sw20, http://www.seco.hut.fi/projects/finnonto,http://www.seco.tkk.fi/ontologies/sapo/,http://www.seco.tkk.fi/ontologies/suo/,http://www.seco.tkk.fi/applications/kulttuurisampo/,http://www.seco.tkk.fi/services/onkipaikka/},
+	Publisher = {CEUR Workshop Proceedings, ISSN 1613-0073},
+	Title = {Ontology-based Disambiguation of Spatiotemporal Locations},
+	Year = {2008}}
+
+@inproceedings{kauppinen-hyvonen-bridging-the-semantic-2004,
+	Author = {Tomi Kauppinen and Eero Hyv\"{o}nen},
+	Booktitle = {Proceedings of the 11th Finnish AI Conference, Web Intelligence Symposium},
+	Date-Modified = {2014-06-26 12:04:07 +0000},
+	Keywords = {Ontology},
+	Location = {Vantaa, Finland},
+	Month = {September 1--3},
+	Optannote = {semantic web, ontologies, web services, information retrieval, mobile applications, web intelligence, agent technologies},
+	Opteditor = {Eero Hyv\"{o}nen and Tomi Kauppinen and Mirva Salminen and Kim Viljanen and Pekka Ala-Siuru},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto},
+	Opturl = {http://www.seco.hut.fi/publications/2004/kauppinen-hyvonen-bridging-the-semantic-2004.pdf},
+	Pages = {63-72},
+	Publisher = {Finnish Artificial Intelligence Society},
+	Series = {Conference Series -- No 20},
+	Title = {Bridging the Semantic Gap between Ontology Versions},
+	Volume = {2},
+	Year = {2004}}
+
+@inproceedings{kauppinen-hyvonen-modeling-coverage-between-2005,
+	Author = {Tomi Kauppinen and Eero Hyv\"{o}nen},
+	Booktitle = {Posters and Demos at the 2nd {European Semantic Web Conference ESWC2005}},
+	Date-Modified = {2014-06-26 15:04:35 +0000},
+	Keywords = {GIS; Geospatial Web},
+	Location = {Heraklion, Crete},
+	Month = {May 29--June 1},
+	Note = {(Best Poster Award ESWC 2005)},
+	Optbooktitle = {Proceeding of ESWC 2005, poster papers},
+	Optnote = {http://www.eswc2005.org/},
+	Optorganization = {European Semantic Web Conference},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto http://www.seco.hut.fi/ontologies/sapo},
+	Optpublisher = {European Semantic Web Conference},
+	Opturl = {http://www.seco.hut.fi/publications/2005/kauppinen-hyvonen-modeling-coverage-between-2005.pdf},
+	Pages = {49--50},
+	Title = {Modeling Coverage Between Geospatial Resources},
+	Year = {2005}}
+
+@misc{kauppinen-ruotsalo-salminen-tiedon-mallintaminen-2005,
+	Author = {Tomi Kauppinen and Tuukka Ruotsalo and Mirva Salminen},
+	Booktitle = {Systeemity\"{o}},
+	Date-Modified = {2014-06-26 15:10:34 +0000},
+	Keywords = {Semantic Web},
+	Language = {Finnish},
+	Location = {Helsinki},
+	Month = {Dec},
+	Optannote = {semantic web, ontologies},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto},
+	Opturl = {http://www.seco.hut.fi/publications/2005/kauppinen-ruotsalo-salminen-tiedon-mallintaminen-semanttisessa-webissa-2005.pdf},
+	Publisher = {Systeemity\"{o}yhdistys SYTYKE ry},
+	Title = {Tiedon Mallintaminen Semanttisessa Webiss\"{a}},
+	Volume = {4},
+	Year = {2005}}
+
+@inproceedings{kauppinen-deichstetter-hyvonen-temp-o-map2007,
+	Author = {Tomi Kauppinen and Christine Deichstetter and Eero Hyv\"{o}nen},
+	Booktitle = {Demo track at the European Semantic Web Conference ESWC 2007, Innsbruck, Austria},
+	Date-Modified = {2014-06-26 12:02:39 +0000},
+	Keywords = {Geospatial Web},
+	Month = {June 4-5},
+	Optannote = {spatiotemporal,change,spatial,temporal,time},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto http://www.seco.hut.fi/ontologies/sapo},
+	Publisher = {Springer},
+	Title = {Temp-O-Map: Ontology-based Search and Visualization of Spatio-Temporal Maps},
+	Year = {2007}}
+
+@inbook{kauppinen-ontology-time-series-book-2007,
+	Address = {New York, NY},
+	Author = {Tomi Kauppinen and Eero Hyv\"{o}nen},
+	Booktitle = {Ontologies: A Handbook of Principles, Concepts and Applications in Information Systems},
+	Date-Modified = {2014-06-26 15:15:25 +0000},
+	Editor = {Rajiv Kishore and Ram Ramesh and Raj Sharman},
+	Keywords = {Ontology; Temporal Reasoning; Time},
+	Month = {January 15},
+	Optannote = {spatiotemporal,change,spatial,temporal,time,change bridge},
+	Optisbn = {0387370196},
+	Optisbn13 = {9780387370194},
+	Optproject = {http://www.seco.hut.fi/projects/finnonto http://www.seco.hut.fi/ontologies/sapo},
+	Opturl = {http://www.seco.tkk.fi/publications/2007/kauppinen_hyvonen_modeling_and_reasoning_about_changes_in_ontology_timeseries_2007.pdf},
+	Pages = {319--338},
+	Publisher = {Springer-Verlag, New York (NY)},
+	Series = {Integrated Series in Information Systems},
+	Title = {Modeling and Reasoning about Changes in Ontology Time Series},
+	Year = {2007}}
+
+@inproceedings{makela-viljanen-et-al-semantic-web-widgets,
+	Abstract = {A lot of functionality is needed when an application, such as a museum cataloguing system, is extended with semantic capabilities, for example ontological indexing functionality or multi-facet search. To avoid duplicate work and to enable easy and cost-efficient integration of information systems with the Semantic Web, we propose a web widget approach. Here, data sources are combined with functionality into readyto-use software components that allow adding semantic functionality to systems with just a few lines of code. As a proof of the concept, we present a collection of general semantic web widgets and case applications that use them, such as the ontology server ONKI, the annotation editor SAHA and the culture portal CultureSampo.},
+	Author = {Eetu M\"{a}kel\"{a} and Kim Viljanen and Olli Alm and Jouni Tuominen and Onni Valkeap\"{a}\"{a} and Tomi Kauppinen and Jussi Kurki and Reetta Sinkkil\"{a} and Teppo K\"{a}ns\"{a}l\"{a} and Robin Lindroos and Osma Suominen and Tuukka Ruotsalo and Eero Hyv\"{o}nen},
+	Booktitle = {Proceedings of the First Industrial Results of Semantic Technologies Workshop, ISWC2007},
+	Date-Modified = {2014-06-26 12:04:07 +0000},
+	Keywords = {Ontology},
+	Month = {November 11},
+	Optproject = {http://www.seco.tkk.fi/projects/finnonto/, http://www.seco.tkk.fi/services/onki/},
+	Title = {Enabling the Semantic Web with Ready-to-Use Web Widgets},
+	Year = {2007}}
+
+@article{ruotsalo-et-al-signum-2008,
+	Author = {Tuukka Ruotsalo and Katri Sepp\"{a}l\"{a} and Kim Viljanen and Eetu M\"{a}kel\"{a} and Jussi Kurki and Olli Alm and Tomi Kauppinen and Jouni Tuominen and Matias Frosterus and Reetta Sinkkil\"{a} and Eero Hyv\"{o}nen},
+	Date-Modified = {2014-06-26 12:04:07 +0000},
+	Journal = {Signum},
+	Keywords = {Ontology},
+	Number = {5},
+	Optproject = {http://www.seco.tkk.fi/projects/sw20, http://www.seco.tkk.fi/projects/finnonto},
+	Opturl = {http://www.seco.hut.fi/publications/2008/ruotsalo-et-al-signum-2008.pdf},
+	Title = {Ontology--based Approach for Interoperability of Digital Collections},
+	Year = {2008}}
+
+@inproceedings{kauppinen-et-al-smartmuseum-2009,
+	Address = {Florence, Italy},
+	Author = {Tomi Kauppinen and Tuukka Ruotsalo and Fr\'{i}d\'{i}ric Weis and Sylvain Roche and Marco Berni and Nima Dokoohaki and Eero Hyv\"{o}nen},
+	Booktitle = {Proceedings of the 2nd Conference of Cultural Heritage on line---Empowering users: an active role for user communities},
+	Date-Modified = {2014-06-26 15:12:37 +0000},
+	Keywords = {SmartMuseum; Context-aware; Digital Cultural Heritage; Personalization; Recommender Systems},
+	Month = {December 15--16},
+	Optyear = {2009},
+	Publisher = {Fondazione Rinascimento Digitale, Ministero per i Beni e le Attivita\`{i} Culturali and The Library of Congress},
+	Title = {SmartMuseum: Knowledge Exchange Platform for Cross-European Cultural Content Integration and Mobile Publication},
+	Year = {2009}}
+
+@inproceedings{smartmuseum-eva-2009,
+	Address = {Florence, Italy},
+	Author = {Marco Berni and Nima Dokoohaki and Elena Fani and Eero Hyv\"{o}nen and Tomi Kauppinen and Mihhail Matskin and Eetu M\"{a}kel\"{a} and Tuukka Ruotsalo},
+	Booktitle = {Proceedings of Electronic Imaging \& the Visual Arts (EVA 2009)},
+	Date-Modified = {2014-06-26 15:12:37 +0000},
+	Keywords = {SmartMuseum; Context-aware; Digital Cultural Heritage; Personalization; Recommender Systems},
+	Month = {April 28--30},
+	Title = {SMARTMUSEUM: a cultural heritage knowledge exchange platform based on ontology-oriented, context-aware and profiling systems},
+	Year = {2009}}
+
+@inproceedings{tuominen-et-al-onki-query-expansion-2009,
+	Abstract = {In this paper we present an ontology-based query expansion widget which utilizes the ontologies published in the ONKI Ontology
+Service. The widget can be integrated into a web page, e.g. a search
+system of a museum catalogue, enhancing the page by providing a query
+expansion functionality. We have tested the system with general,
+domain-specific and spatio-temporal ontologies.},
+	Author = {Jouni Tuominen and Tomi Kauppinen and Kim Viljanen and Eero Hyvonen},
+	Booktitle = {Proceedings of the 5th Workshop on Scripting and Development for the Semantic Web (SFSW 2009), 6th European Semantic Web Conference (ESWC 2009)},
+	Date-Modified = {2014-06-26 12:04:07 +0000},
+	Keywords = {Ontology},
+	Location = {Heraklion, Greece},
+	Month = {May 31 - June 4},
+	Optproject = {http://www.seco.tkk.fi/projects/sw20, http://www.seco.tkk.fi/projects/finnonto, http://www.seco.tkk.fi/services/onki},
+	Publisher = {CEUR Workshop Proceedings, http://ceur-ws.org/},
+	Title = {Ontology-Based Query Expansion Widget for Information Retrieval},
+	Year = {2009}}
+
+@proceedings{xml2005,
+	Address = {Pori, Finland},
+	Booktitle = {Proceedings of the 9th XML Finland Conference, XML Finland 2005},
+	Date-Modified = {2014-06-26 15:11:37 +0000},
+	Editor = {Anneli Heimb\"{u}rger and Tomi Kauppinen and Harri Lehtinen and Jari Multisilta and Matti Paajanen and Kimmo Rytk\"{o}nen},
+	Keywords = {XML; Business Processes},
+	Month = {March 8--9},
+	Number = {2},
+	Publisher = {Tampere University of Technology},
+	Title = {XML - The Enabling Technology for Integrating Business Processes},
+	Year = {2005}}
+
+@article{smartmuseum2013,
+	Author = {Tuukka Ruotsalo and Krister Haav and Antony Stoyanov and Sylvain Rochee and Elena Fanid and Romina Delia and Eetu M\"{a}kel\"{a} and Tomi Kauppinen and Eero Hyv\"{o}nen},
+	Date-Modified = {2014-06-26 15:12:20 +0000},
+	Journal = {Web Semantics: Science, Services and Agents on the World Wide Web},
+	Keywords = {SmartMuseum; Context-aware; Digital Cultural Heritage; Personalization; Recommender Systems},
+	Month = {May},
+	Pages = {50--67},
+	Publisher = {Elsevier},
+	Title = {{SMARTMUSEUM: A Mobile Recommender System for the Web of Data}},
+	Volume = {20},
+	Year = {2013}}
