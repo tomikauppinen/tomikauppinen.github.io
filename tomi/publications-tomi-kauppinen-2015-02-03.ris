@@ -1,0 +1,1863 @@
+TY  - PROC
+ED  - Gangemi, Aldo
+ED  - Alani, Harith
+ED  - Nissim, Malvina
+ED  - Cambria, Erik
+ED  - Recupero, Diego Reforgiato
+ED  - Lanfranchi, Vitaveska
+ED  - Kauppinen, Tomi
+KW  - Sentiment Analysis
+KW  -  Social Media
+KW  -  Linked Data
+KW  -  Emergency Response
+Y2  - January
+T1  - Joint Proceedings of the 1th Workshop on Semantic Sentiment Analysis (SSA2014), and the Workshop on Social Media and Linked Data for Emergency Response (SMILE 2014) co-located with 11th European Semantic Web Conference (ESWC 2014)
+PY  - 2015
+ER  - 
+
+
+TY  - CONF
+AD  - Nanyang Technological University, Singapore
+AU  - Haddawy, Peter
+AU  - Frommberger, Lutz
+AU  - Kauppinen, Tomi
+AU  - Felice, Giorgio De
+AU  - Charkratpahu, Prae
+AU  - Saengpao, Sirawaratt
+AU  - Kanchanakitsakul, Phanumas
+T2  - Proceedings of the Seventh International Conference on Information and Communication Technologies and Development (ICTD 2015)
+KW  - Spatial Data Mining
+KW  -  Crowdsourcing
+KW  -  Situation Awareness
+KW  -  Disease Surveillance
+KW  -  Bayesian Networks
+KW  -  Hidden Markov Models
+Y2  - May
+PB  - ACM
+T1  - Situation Awareness in Crowdsensing for Disease Surveillance in Crisis Situations
+PY  - 2015
+ER  - 
+
+
+TY  - CONF
+AD  - Luxembourg
+AU  - Atanassova, Iana
+AU  - Bertin, Marc
+AU  - Kauppinen, Tomi
+T2  - Gestion et Analyse des données Spatiales et Temporelles (GAST'2015@EGC2015), 15ème conférence internationale sur l'extraction et la gestion des connaissances (EGC2015)
+KW  - Spatial Data Mining
+KW  -  Natural Language Processing
+Y2  - January
+T1  - Exploitation de données spatiales provenant d'articles scientifiques pour le suivi des maladies tropicales
+PY  - 2015
+ER  - 
+
+
+TY  - PROC
+AD  - Linköping, Sweden
+ED  - Ivanova, Valentina
+ED  - Kauppinen, Tomi
+ED  - Lohmann, Steffen
+ED  - Mazumdar, Suvodeep
+ED  - Pesquita, Catia
+ED  - Xu, Kai
+KW  - Information Visualization
+KW  -  Visual Analytics
+KW  -  visualization
+KW  -  Sensemaking
+KW  -  Human Computer Interaction
+KW  -  Data visualization
+KW  -  Knowledge Engineering
+Y2  - November 24
+PB  - CEUR Workshop Proceedings
+T1  - Proceedings of the International Workshop on Visualizations and User Interfaces for Knowledge Engineering and Linked Data Analytics co-located with 19th International Conference on Knowledge Engineering and Knowledge Management (EKAW 2014)
+VL  - 1299
+PY  - 2014
+ER  - 
+
+
+TY  - JOUR
+AB  - Background: Healthcare organizations around the world are challenged by pressures to reduce cost, improve coordination and outcome, and provide more with less. This requires effective planning and evidence-based practice by generating important information from available data. Thus, flexible and user-friendly ways to represent, query, and visualize health data becomes increasingly important. International organizations such as the World Health Organization (WHO) regularly publish vital data on priority health topics that can be utilized for public health policy and health service development. However, the data in most portals is displayed in either Excel or PDF formats, which makes information discovery and reuse difficult. Linked Open Data (LOD)---a new Semantic Web set of best practice of standards to publish and link heterogeneous data---can be applied to the representation and management of public level health data to alleviate such challenges. However, the technologies behind building LOD systems and their effectiveness for health data are yet to be assessed. Objective: The objective of this study is to evaluate whether Linked Data technologies are potential options for health information representation, visualization, and retrieval systems development and to identify the available tools and methodologies to build Linked Data-based health information systems. Methods: We used the Resource Description Framework (RDF) for data representation, Fuseki triple store for data storage, and Sgvizler for information visualization. Additionally, we integrated SPARQL query interface for interacting with the data. We primarily use the WHO health observatory dataset to test the system. All the data were represented using RDF and interlinked with other related datasets on the Web of Data using Silk---a link discovery framework for Web of Data. A preliminary usability assessment was conducted following the System Usability Scale (SUS) method. Results: We developed an LOD-based health information representation, querying, and visualization system by using Linked Data tools. We imported more than 20,000 HIV-related data elements on mortality, prevalence, incidence, and related variables, which are freely available from the WHO global health observatory database. Additionally, we automatically linked 5312 data elements from DBpedia, Bio2RDF, and LinkedCT using the Silk framework. The system users can retrieve and visualize health information according to their interests. For users who are not familiar with SPARQL queries, we integrated a Linked Data search engine interface to search and browse the data. We used the system to represent and store the data, facilitating flexible queries and different kinds of visualizations. The preliminary user evaluation score by public health data managers and users was 82 on the SUS usability measurement scale. The need to write queries in the interface was the main reported difficulty of LOD-based systems to the end user. Conclusions: The system introduced in this article shows that current LOD technologies are a promising alternative to represent heterogeneous health data in a flexible and reusable manner so that they can serve intelligent queries, and ultimately support decision-making. However, the development of advanced text-based search engines is necessary to increase its usability especially for nontechnical users. Further research with large datasets is recommended in the future to unfold the potential of Linked Data and Semantic Web for future health information systems development. 
+AU  - Tilahun, Binyam
+AU  - Kauppinen, Tomi
+AU  - Keßler, Carsten
+AU  - Fritz, Fleur
+JO  - JMIR Med Inform
+KW  - Linked Open Data
+KW  -  Semantic Web
+KW  -  ontology
+KW  -  Health Information Systems
+KW  -  WHO
+KW  -  public health
+KW  -  public health informatics
+KW  -  visualization
+KW  -  Spatial Analysis
+KW  -  GIScience
+KW  -  Knowledge Engineering
+Y2  - Oct
+IS  - 2
+SP  - e31
+T1  - Design and Development of a Linked Open Data-Based Health Information Representation and Visualization System: Potentials and Preliminary Evaluation
+UR  - http://medinform.jmir.org/2014/2/e31/
+VL  - 2
+PY  - 2014
+ER  - 
+
+
+TY  - PROC
+AD  - Riva del Garda, Italy
+ED  - Zhao, Jun
+ED  - van Erp, Marieke
+ED  - Kessler, Carsten
+ED  - Kauppinen, Tomi
+ED  - van Ossenbruggen, Jacco
+ED  - van Hage, Willem Robert
+KW  - Linked Science
+KW  -  Sensemaking
+KW  -  Linked Data
+KW  -  Open Science
+KW  -  eResearch
+Y2  - October 19
+PB  - CEUR Workshop Proceedings (in press)
+T1  - Proceedings of the 4th Workshop on Linked Science 2014 - Making Sense Out of Data (LISC2014), co-located with the 13th International Semantic Web Conference (ISWC 2014)
+PY  - 2014
+ER  - 
+
+
+TY  - PROC
+ED  - Janowicz, Krzysztof
+ED  - Adams, Benjamin
+ED  - McKenzie, Grant
+ED  - Kauppinen, Tomi
+KW  - GIScience
+KW  -  Geospatial Web
+KW  -  Geoinformatics
+KW  -  Spatial Information
+Y2  - September
+PB  - CEUR
+T1  - Proceedings of the Workshop on Geographic Information Observatories 2014
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AU  - Janowicz, Krzysztof
+AU  - Adams, Benjamin
+AU  - McKenzie, Grant
+AU  - Kauppinen, Tomi
+T2  - Proceedings of the Workshop on Geographic Information Observatories 2014
+KW  - Information Observatories
+KW  -  GIScience
+KW  -  Spatial Information
+KW  -  Geoinformatics
+KW  -  Geospatial Web
+KW  -  Big Data
+KW  -  Spatial Data Mining
+Y2  - September
+PB  - CEUR
+T1  - Towards Geographic Information Observatories
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AU  - Kauppinen, Tomi
+T2  - Proceedings of the Big Data from Space conference (BiDS'14)
+KW  - Space
+KW  -  Linked Science
+KW  -  Linked Data
+KW  -  Information Visualization
+KW  -  Big Data
+KW  -  Sensemaking
+KW  -  Environmental Studies
+KW  -  eResearch
+KW  -  Spatial Analysis
+KW  -  GIScience
+KW  -  Spatial Data Mining
+Y2  - November
+PB  - European Space Agency (ESA)
+T1  - Linked Earth: Supporting Understanding of the Phenomena that Shape the Earth
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AD  - Dallas, Texas, USA
+AU  - Ali, Ahmed Loai
+AU  - Schmid, Falko
+AU  - Al-Salman, Rami
+AU  - Kauppinen, Tomi
+T2  - Proceedings of the ACM SIGSPATIAL GIS 2014
+KW  - Volunteered Geographic Information
+KW  -  Data Quality
+KW  -  Digital Maps
+KW  -  GIScience
+KW  -  GIS
+KW  -  Big Data
+KW  -  OpenStreetMap
+KW  -  Spatial Data Mining
+Y2  - November 7--11
+T1  - Ambiguity and Plausibility: Managing Classification Quality in Volunteered Geographic Information
+PY  - 2014
+ER  - 
+
+
+TY  - RPRT
+AB  - SMARTMUSEUM (Cultural Heritage Knowledge Exchange Platform) is a Research and Development project sponsored under theEuropeans Commission's 7th Framework. The overall objective of the project is to develop a platform for innovative servicesenhancing on-site personalized access to digital cultural heritage through adaptive and privacy preserving user profiling. Using on-site knowledge databases, global digital libraries and visitors' experiential knowledge, the platform makes possible the creation ofinnovative multilingual services for increasing interaction between visitors and cultural heritage objects in a future smart museumenvironment, taking full benefit of digitized cultural information.The main objective of this deliverable is to describe a theoretical framework for management of dynamic user profiles.
+
+
+AU  - Dokoohaki, Nima
+AU  - Ruotsalo, Tuukka
+AU  - Kauppinen, Tomi
+AU  - Makela, Eetu
+KW  - Methods
+KW  -  Dynamic Profiling
+KW  -  Userprofiles
+KW  -  SmartMuseum
+KW  -  Digital Cultural Heritage
+KW  -  Personalization
+KW  -  Recommender Systems
+KW  -  Digital Libraries
+T1  - Deliverable 2.2-Report describing methods for dynamic user profile creation: EU FP7 Smartmuseum Scientific Deliverable
+PY  - 2009
+ER  - 
+
+
+TY  - CONF
+AD  - Heraklion, Crete, Greece
+AU  - Tuominen, Jouni
+AU  - Kauppinen, Tomi
+AU  - Viljanen, Kim
+AU  - Hyvonen, Eero
+T2  - Proceedings of 5th Workshop on Scripting and Development for the Semantic Web (SFSW2009)
+KW  - AJAX
+KW  -  Web Widgets
+KW  -  Query Expansion
+KW  -  Information Retrieval
+Y2  - May 31--June 4
+PB  - CEUR
+T1  - AJAX Widget for Semantic Query Expansion
+PY  - 2009
+ER  - 
+
+
+TY  - JOUR
+AB  - Linked Open Science is an approach to solve challenges of an executable paper. It is a combination of four ``silver bullets'': 1) publication of scientific data, metadata, results, and provenance information using Linked Data principles, 2) open source and web-based environments for executing, validating and exploring research, 3) Cloud Computing for effcient and distributed computing, and 4) Creative Commons for the legal infrastructure. We will use a realistic scientific research setting related to research on deforestation of the Brazilian Amazon rainforest to provide scenarios to illustrate the application of Linked Open Science. 
+AU  - Kauppinen, Tomi
+AU  - de Espindola, Giovana Mira
+JO  - Procedia Computer Science
+KW  - The Brazilian Amazon Rainforest
+KW  -  Linked Science
+KW  -  Linked Data
+KW  -  Open Science
+KW  -  Digital Libraries
+KW  -  Environmental Studies
+KW  -  eResearch
+IS  - 0
+SP  - 726
+EP  - -731
+T1  - Linked Open Science-Communicating, Sharing and Evaluating Data, Methods and Results for Executable Papers
+UR  - http://www.sciencedirect.com/science/article/pii/S1877050911001347
+VL  - 4
+PY  - 2011
+ER  - 
+
+
+TY  - CONF
+AD  - Espoo, Finland
+AU  - Hyvonen, Eero
+AU  - Ruotsalo, Tuukka
+AU  - Haggstrom, Thomas
+AU  - Salminen, Mirva
+AU  - Junnila, Miikka
+AU  - Virkkila, Mikko
+AU  - Haaramo, Mikko
+AU  - Makela, Eetu
+AU  - Kauppinen, Tomi
+AU  - Viljanen, Kim
+T2  - Proceedings of the 12th Finnish Artificial Intelligence Conference STeP 2006
+KW  - CultureSampo
+KW  -  Digital Cultural Heritage
+KW  -  Semantic Web
+KW  -  Digital Maps
+Y2  - October 26--27
+T1  - CultureSampo - Finnish Culture on the Semantic Web: The Vision and First Results
+PY  - 2006
+ER  - 
+
+
+TY  - CONF
+AU  - Kauppinen, Tomi
+AU  - Devaraju, Anusuriya
+T2  - Positio
+KW  - Sensor Networks
+T1  - Alya havaintojen yhdistamiseen
+VL  - 1
+PY  - 2013
+ER  - 
+
+
+TY  - CONF
+AD  - Helsinki, Finland
+AU  - Kauppinen, Tomi
+T2  - Tiedon louhinta biomolekyyliaineistosta
+ED  - Toivonen, Hannu
+KW  - Pattern Recognition
+KW  -  Minimum Description Length
+KW  -  MDL
+PB  - Helsingin yliopisto
+T1  - Hahmojen etsinta rakenteisesta biomolekyyliaineistosta
+PY  - 2003
+ER  - 
+
+
+TY  - CONF
+AD  - Riva del Garda, Trentino, Italy
+AU  - Kauppinen, Tomi
+AU  - Litvinova, Evgenia
+AU  - Kallenbach, Jan
+T2  - Proceedings of the ISWC 2014 Posters and Demonstrations Track, a track within the 13th International Semantic Web Conference (ISWC 2014)
+KW  - Human Sensor Web
+KW  -  Data visualization
+KW  -  Information Visualization
+KW  -  Visual Analytics
+KW  -  Smart Spaces
+KW  -  Affective Computing
+KW  -  Cognitive Systems
+KW  -  Spatial Information
+KW  -  Semantic Web
+KW  -  Sensemaking
+KW  -  GIScience
+KW  -  Spatial Data Mining
+Y2  - October
+T1  - Capturing and Linking Human Sensor Observations with YouSense
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AD  - Riva del Garda, Trentino, Italy
+AU  - Mazumdar, Suvodeep
+AU  - Kauppinen, Tomi
+T2  - Proceedings of the ISWC 2014 Posters and Demonstrations Track, a track within the 13th International Semantic Web Conference (ISWC 2014)
+KW  - Information Visualization
+KW  -  Data visualization
+KW  -  The Brazilian Amazon Rainforest
+KW  -  Time
+KW  -  Visual Analytics
+KW  -  Animation
+KW  -  Big Data
+KW  -  Semantic Web
+KW  -  Spatio-temporal Information
+KW  -  Sensemaking
+KW  -  Environmental Studies
+KW  -  GIScience
+KW  -  Spatial Data Mining
+Y2  - October
+T1  - Visualizing and Animating Large-scale Spatiotemporal Data with ELBAR Explorer
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AD  - Montpellier, France
+AU  - Kauppinen, Tomi
+T2  - Proceedings of the Workshop on Social Media and Linked Data for Emergency Response (SMILE2013) co-located with 10th Extended Semantic Web Conference (ESWC 2013)
+ED  - Lanfranchi, Vitaveska
+ED  - Mazumdar, Suvodeep
+ED  - Blomqvist, Eva
+ED  - Brewster, Christopher
+KW  - Information Visualization
+KW  -  Social Media
+KW  -  Linked Data
+KW  -  Haiti Earthquake
+KW  -  Visual Analytics
+KW  -  Semantic Web
+KW  -  Sensemaking
+KW  -  Spatial Data Mining
+Y2  - May 26
+PB  - CEUR
+T1  - Linking and Visualizing Social Media Data about Crises
+VL  - Vol-1191
+PY  - 2013
+ER  - 
+
+
+TY  - CONF
+AD  - Vienna University of Technology, Austria
+AU  - Kuhn, Werner
+AU  - Kauppinen, Tomi
+AU  - Janowicz, Krzysztof
+T2  - Proceedings of The Eighth International Conference on Geographic Information Science (GIScience2014)
+KW  - Linked Science
+KW  -  Linked Data
+KW  -  GIScience
+KW  -  GIS
+KW  -  Geospatial Web
+KW  -  The Brazilian Amazon Rainforest
+KW  -  Time
+KW  -  Spatial data infrastructure
+KW  -  Spatial Information
+Y2  - September
+T1  - Linked Data -- A Paradigm Shift for Geographic Information Science
+PY  - 2014
+ER  - 
+
+
+TY  - JOUR
+AB  - Exploring complex spatiotemporal data can be very challenging for non-experts. Recently, gestural interaction has emerged as a promis- ing option, which has been successfully applied to various domains, including simple map control. In this paper, we investigate whether gestures can be used to enable non-experts to explore and understand complex spatiotemporal phenomena. In this case study we made use of large amounts of Linked Open Data about the deforestation of the Brazilian Amazon Rainforest and related ecological, economical and social factors. The results of our study indicate that people of all
+ ages can easily learn gestures and successfully use them to explore the visualized and aggregated spatiotemporal data about the Brazilian Amazon Rainforest.
+AU  - Bartoschek, Thomas
+AU  - Paper, Gerald
+AU  - Kray, Christian
+AU  - Jones, Jim
+AU  - Kauppinen, Tomi
+JO  - OSGEO Journal
+KW  - Gestural Interaction
+KW  -  Human Computer Interaction
+KW  -  The Brazilian Amazon Rainforest
+KW  -  Visual Analytics
+KW  -  Information Visualization
+KW  -  Interaction Design
+KW  -  Linked Science
+KW  -  Data visualization
+KW  -  Linked Data
+KW  -  Time
+KW  -  Animation
+KW  -  Spatial Information
+KW  -  Open Science
+KW  -  Spatio-temporal Information
+KW  -  Sensemaking
+KW  -  Environmental Studies
+KW  -  eResearch
+KW  -  GIScience
+KW  -  Spatial Analysis
+IS  - 11
+PB  - Open Source Geospatial Foundation
+T1  - Gestural Interaction with Spatiotemporal Linked Open Data
+PY  - 2013
+ER  - 
+
+
+TY  - JOUR
+AB  - The Linked Brazilian Amazon Rainforest Data contains observations about deforestation of rainforests and related things such as rivers, road networks, population, amount of cattle, and market prices of agricultural products. The Linked Data approach offers thus to combine ecological, economical and social dimensions together. Our aim has been to 1) dramatically shorten the time needed to collect information for a research setting concerning the Brazilian Amazon, and 2) via the linkage between datasets enable novel types of transdisciplinary research for the scientific community.
+AU  - Kauppinen, Tomi
+AU  - de Espindola, Giovana Mira
+AU  - Jones, Jim
+AU  - Sanchez, Alber
+AU  - Graler, Benedikt
+AU  - Bartoschek, Thomas
+JO  - Semantic Web Journal
+KW  - The Brazilian Amazon Rainforest
+KW  -  Linked Science
+KW  -  Linked Data
+KW  -  Time
+KW  -  Big Data
+KW  -  Open Science
+KW  -  Semantic Web
+KW  -  Environmental Studies
+KW  -  eResearch
+IS  - 2
+PB  - IOS Press
+T1  - Linked Brazilian Amazon Rainforest Data
+VL  - 5
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AD  - Anissaras, Crete, Greece
+AU  - Hukkinen, Salli
+AU  - Kauppinen, Tomi
+T2  - Proceedings of Workshop on Human-Semantic Web Interaction (HSWI14)
+KW  - Visual Analytics
+KW  -  Information Visualization
+KW  -  Data visualization
+KW  -  Interaction Design
+KW  -  Cognitive Systems
+KW  -  Human Computer Interaction
+KW  -  Semantic Web
+KW  -  Digital Libraries
+KW  -  Sensemaking
+KW  -  Big Data
+Y2  - May
+T1  - Supporting Visual Exploration of Inter-organization Collaboration
+PY  - 2014
+ER  - 
+
+
+TY  - CHAP
+AD  - USA
+AU  - Kauppinen, Tomi
+AU  - Baglatzi, Alkyoni
+AU  - Ke\ssler, Carsten
+T2  - Data Intensive Science
+ED  - Critchlow, Terence
+ED  - Kleese-Van Dam, Kerstin
+KW  - Linked Science
+KW  -  The Brazilian Amazon Rainforest
+KW  -  Open Science
+KW  -  Linked Data
+KW  -  Environmental Studies
+KW  -  eResearch
+PB  - CRC Press
+T1  - Linked Science: Interconnecting Scientific Assets
+PY  - 2013
+ER  - 
+
+
+TY  - CONF
+AD  - Columbus, Ohio, USA
+AU  - Ke\ssler, Carsten
+AU  - Janowicz, Krzysztof
+AU  - Kauppinen, Tomi
+T2  - Proceedings of the Seventh International Conference on Geographic Information Science (GIScience2012)
+ED  - Xiao, N.
+ED  - Kwan, M.-P.
+ED  - Goodchild, M.F.
+ED  - Shekhar, S.
+KW  - Linked Science
+KW  -  GIScience
+KW  -  Linked Data
+KW  -  Spatial Information
+KW  -  Open Science
+KW  -  GIS
+KW  -  Spatial Analysis
+KW  -  Spatial Data Mining
+PB  - Springer
+T1  - spatial@linkedscience---Exploring Research Field of GIScience with Linked Data
+PY  - 2012
+ER  - 
+
+
+TY  - CONF
+AD  - Castellon, Spain
+AU  - D'Antonio, Fausto
+AU  - Fogliaroni, Paolo
+AU  - Kauppinen, Tomi
+T2  - Proceedings of the 17th AGILE Conference on Geographic Information Science, Connecting a Digital Europe through Location and Place
+KW  - OpenStreetMap
+KW  -  Volunteered Geographic Information
+KW  -  Human Sensor Web
+KW  -  GIScience
+KW  -  Big Data
+Y2  - June
+T1  - VGI Edit History Reveals Data Trustworthiness and User Reputation
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AD  - Heraklion, Crete, Greece
+AU  - Kauppinen, Tomi
+AU  - de Espindola, Giovana Mira
+AU  - Graler, Benedikt
+T2  - Poster proceedings of the Extended Semantic Web Conference 2012 (ESWC2012)
+KW  - Linked Science
+KW  -  Open Science
+KW  -  Semantic Web
+KW  -  Linked Data
+KW  -  eResearch
+KW  -  Spatial Analysis
+KW  -  GIScience
+KW  -  Spatial Data Mining
+Y2  - May
+T1  - Sharing and Analyzing Remote Sensing Observation Data for Linked Science
+PY  - 2012
+ER  - 
+
+
+TY  - CONF
+AD  - Kloster Seeon, Germany
+AU  - Schmid, Falko
+AU  - Kutz, Oliver
+AU  - Frommberger, Lutz
+AU  - Mossakowski, Till
+AU  - Kauppinen, Tomi
+AU  - Cai, Cunyuan
+T2  - Proceedings of Place-Related Knowledge Acquisition Research (P-KAR) Workshop
+KW  - Geospatial Web
+KW  -  Cognitive Systems
+KW  -  Spatial Information
+KW  -  GIScience
+Y2  - August
+T1  - Intuitive and Natural Interfaces for Geospatial Data Classification
+PY  - 2012
+ER  - 
+
+
+TY  - CONF
+AD  - Montpellier, France
+AU  - Alonen, Miika
+AU  - Kauppinen, Tomi
+AU  - Suominen, Osma
+AU  - Hyvonen, Eero
+T2  - Demo proceedings of the Extended Semantic Web Conference 2013 (ESWC2013)--Semantics and Big Data
+KW  - Visual Analytics
+KW  -  Information Visualization
+KW  -  Data visualization
+KW  -  Semantic Web
+KW  -  Linked Data
+KW  -  Big Data
+Y2  - May
+T1  - Exploring the Linked University Data With Visualization Tools
+PY  - 2013
+ER  - 
+
+
+TY  - JOUR
+AB  - Time is an essential concept in cultural heritage applications. Instances of temporal concepts such as time intervals are used for the annotation of cultural objects and also for querying datasets containing information about these objects. Hence it is important to match query and annotation intervals by examining their similarity or closeness. One of the problems is that in many cases time intervals are imprecise. For example, the boundaries of the ``Pre-Roman age'' and the ``Roman age'' are inherently imprecise and it may be difficult to distinguish them with clear-cut intervals. In this paper we apply the fuzzy set theory to model imprecise time intervals in order to determine relevance of the relationship between two time intervals. We present a method for matching query and annotation intervals based on their weighted mutual overlapping and closeness. We present 1) methods for calculating these weights to produce a combined measure and 2) results of comparing the combined measure with human evaluators as a case study. The case study takes into consideration archaeological temporal information, which is in most cases inherently fuzzy, and therefore offers a particularly complex and challenging scenario. The results show that our new combined measure that utilizes different weighted measures together in rankings, performs the best in terms of precision and recall. It should be used when ranking annotation intervals according to a given query interval in cultural heritage information retrieval. Our approach intends to be generalizable: overlapping and closeness may be calculated between any two fuzzy temporal intervals. The presented procedure of using user evaluation results as a basis for assigning weights for overlapping and closeness could potentially be used to reveal weights in other domains and purposes as well.
+AU  - Kauppinen, Tomi
+AU  - Mantegari, Glauco
+AU  - Paakkarinen, Panu
+AU  - Kuittinen, Heini
+AU  - Hyvonen, Eero
+AU  - Bandini, Stefania
+JO  - International Journal of Human-Computer Studies
+KW  - Fuzzy Sets
+KW  -  Fuzzy Temporal Intervals
+KW  -  Temporal Reasoning
+KW  -  Time
+KW  -  Digital Cultural Heritage
+KW  -  Human Computer Interaction
+KW  -  Information Retrieval
+KW  -  Cognitive Science
+KW  -  Cognitive Systems
+KW  -  Archaeology
+Y2  - September
+IS  - 9
+SP  - 549
+EP  - -560
+PB  - Elsevier
+T1  - Determining Relevance of Imprecise Temporal Intervals for Cultural Heritage Information Retrieval
+VL  - 68
+PY  - 2010
+ER  - 
+
+
+TY  - JOUR
+AB  - In this paper, we argue that sensors provide a better understanding of geographic events. They produce observations that reflect the natural events taking place at a particular location. The essential part of deriving information about geographic events from sensor observations is to formalize the relations between them. In this spirit, we develop an ontology to capture the relations between weather events and properties observed by sensors. A case study is investigated to illustrate how blizzard events can be formally represented in relation to a set of atmospheric properties observed by a weather station. We use the historical weather records from the Canadian Climate Archives database to evaluate our approach. Using the ontological structures, we define and implement rules to reason about blizzard events from hourly weather observations. The result includes an interactive timeline illustrating the events. The approach is evaluated in terms of reasoning and querying support agains a local use.
+AU  - Devaraju, Anusuriya
+AU  - Kauppinen, Tomi
+ED  - et al. (eds.), In Nikolaos Konstantinou
+JO  - Special Issue on Semantic Sensor Networks, International Journal of Sensors, Wireless Communications and Control
+KW  - Sensor Networks
+KW  -  Human Computer Interaction
+KW  -  Ontology
+KW  -  Artificial Intelligence
+KW  -  Cognitive Systems
+KW  -  Reasoning
+KW  -  Environmental Studies
+KW  -  Big Data
+KW  -  Knowledge Engineering
+KW  -  Spatial Data Mining
+IS  - 1
+PB  - Bentham Science Publishers
+T1  - Sensors Tell More than They Sense: Modeling and Reasoning about Sensor Observations for Understanding Weather Events
+VL  - 2
+PY  - 2012
+ER  - 
+
+
+TY  - CONF
+AU  - Kauppinen, Tomi
+AU  - Vaatainen, Jari
+AU  - Hyvonen, Eero
+T2  - S. Bechhofer et al.(Eds.): Proceedings of the 5th European Semantic Web Conference 2008 ESWC 2008, LNCS 5021, Tenerife, Spain
+KW  - Ontology
+KW  -  Time
+KW  -  Temporal Reasoning
+KW  -  Recommender Systems
+KW  -  Information Retrieval
+KW  -  Reasoning
+KW  -  Spatial Information
+KW  -  Semantic Web
+KW  -  GIScience
+KW  -  Knowledge Engineering
+Y2  - June 1-5
+SP  - 110
+EP  - 123
+PB  - Springer-Verlag
+T1  - Creating and Using Geospatial Ontology Time Series in a Semantic Cultural Heritage Portal
+PY  - 2008
+ER  - 
+
+
+TY  - PROC
+AD  - Bonn, Germany
+ED  - Kauppinen, Tomi
+ED  - Pouchard, Line C.
+ED  - Ke\ssler, Carsten
+KW  - Linked Science
+KW  -  Linked Data
+KW  -  Open Science
+KW  -  eResearch
+Y2  - October 24
+T1  - Proceedings of the First International Workshop on Linked Science 2011 (LISC2011)
+VL  - 783
+PY  - 2011
+ER  - 
+
+
+TY  - PROC
+AD  - Boston, MA, USA
+ED  - Kauppinen, Tomi
+ED  - Pouchard, Line C.
+ED  - Kessler, Carsten
+KW  - Linked Science
+KW  -  Linked Data
+KW  -  Open Science
+KW  -  eResearch
+Y2  - November
+PB  - CEUR Workshop Proceedings, Vol 951, http://ceur-ws.org, ISSN 1613-0073
+T1  - Proceedings of the Second International Workshop on Linked Science 2012 (LISC2012)
+UR  - http://ceur-ws.org/Vol-951/
+VL  - 951
+PY  - 2012
+ER  - 
+
+
+TY  - PROC
+AD  - Sydney Australia
+ED  - Groth, Paul
+ED  - van Erp, Marieke
+ED  - Kauppinen, Tomi
+ED  - Zhao, Jun
+ED  - Kessler, Carsten
+ED  - Pouchard, Line C.
+ED  - Goble, Carole
+ED  - Gil, Yolanda
+ED  - van Ossenbruggen, Jacco
+KW  - Linked Science
+KW  -  Linked Data
+KW  -  Open Science
+KW  -  eResearch
+Y2  - October
+PB  - CEUR Workshop Proceedings
+T1  - Proceedings of the 3rd International Workshop on Linked Science 2013---Supporting Reproducibility, Scientific Investigations and Experiments (LISC)
+UR  - http://ceur-ws.org/Vol-1116/
+VL  - Vol-1116
+PY  - 2013
+ER  - 
+
+
+TY  - PROC
+AD  - Columbus, Ohio, USA
+ED  - Janowicz, Krzysztof
+ED  - Keßler, Carsten
+ED  - Kauppinen, Tomi
+ED  - Kolas, Dave
+ED  - Scheider, Simon
+KW  - GIScience
+KW  -  Spatial Information
+KW  -  Big Data
+Y2  - September
+T1  - Proceedings of the Workshop on GIScience in the Big Data Age, In conjunction with the seventh International Conference on Geographic Information Science 2012 (GIScience 2012)
+PY  - 2012
+ER  - 
+
+
+TY  - CONF
+AU  - Tilahun, Biniyam
+AU  - Kauppinen, Tomi
+T2  - Poster at International SWAT4LS Workshop---Semantic Web Applications and Tools for Life Sciences
+KW  - Linked Data
+KW  -  Health Information Systems
+KW  -  Semantic Web
+KW  -  eResearch
+KW  -  Spatial Analysis
+KW  -  GIScience
+Y2  - November
+T1  - Potential of Linked Open Data in Health Information Representation on the Semantic Web
+PY  - 2012
+ER  - 
+
+
+TY  - CONF
+AD  - National University of Ireland, Galway, Ireland
+AU  - Baglatzi, Alkyoni
+AU  - Kauppinen, Tomi
+T2  - Demos and Posters of the 18th International Conference on Knowledge Engineering and Knowledge Management (EKAW2012)
+KW  - Linked Science
+KW  -  Open Science
+KW  -  Linked Data
+KW  -  eResearch
+KW  -  Environmental Studies
+Y2  - October
+T1  - Managing and Representing Scientific Findings about the Environment
+PY  - 2012
+ER  - 
+
+
+TY  - CONF
+AD  - Heraklion, Crete, Greece
+AU  - Ke\ssler, Carsten
+AU  - Kauppinen, Tomi
+T2  - Demos the Extended Semantic Web Conference 2012 (ESWC2012)
+KW  - Linked Data
+KW  -  Semantic Web
+KW  -  Digital Libraries
+Y2  - May
+T1  - Linked Open Data University of Muenster---Infrastructure and Applications
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AB  - The term Spatial Data Infrastructure (SDI) was defined in the nineties as a set of policies, technologies and institutional arrangements for improving the availability and accessibility of spatial data and information. SDIs are typically driven by governmental organizations, and thus follow top-down structures based on regulations and agreements. The drawback is that it renders SDIs less easily capable of evolving with new technological trends. While organizations are still struggling to implement SDIs, the World Wide Web is increasingly developing into a Geospatial Web, i.e. one that extensively supports the spatial and temporal aspects of information. This article is our contribution to the discussion on the future technological directions in the field of SDIs. We give a conceptual view of the dynamics of both SDIs and the Geospatial Web. We present a picture of the SDI of the future, one which benefits from these developments, based on an analysis of geoinformatics research topics and current ICT trends. We provide recommendations on how to improve the adaptability and usability of SDIs as to facilitate the assimilation of new ICT developments and to leverage self-reinforcing growth.
+AD  - Instanbul
+AU  - Diaz, Laura
+AU  - Remke, Albert
+AU  - Kauppinen, Tomi
+AU  - Degbelo, Auriol
+AU  - Foerster, Theodor
+AU  - Stasch, Christoph
+AU  - Rieke, Matthes
+AU  - Schaeffer, Bastian
+AU  - Baranski, Bastian
+AU  - Broering, Arne
+AU  - Wytzisk, Andreas
+JO  - International Journal of Spatial Data Infrastructures Research (IJSDIR)
+KW  - Spatial data infrastructure
+KW  -  SDI
+KW  -  Information Infrastructures
+KW  -  Geoinformatics
+KW  -  Geospatial Web
+KW  -  Linked Data
+KW  -  Time
+KW  -  Spatial Information
+KW  -  GIScience
+SP  - 378
+EP  - -410
+PB  - Joint Research Centre of the European Commission
+T1  - Future SDI---Impulses from Geoinformatics Research and IT Trends
+VL  - 7
+PY  - 2012
+ER  - 
+
+
+TY  - CONF
+AD  - Avignon, France
+AU  - Gur, Nurefsan
+AU  - Diaz, Laura
+AU  - Kauppinen, Tomi
+T2  - Proceedings of the 15th AGILE International Conference on Geographic Information Science (AGILE2012)
+KW  - Ontology
+KW  -  Health Information Systems
+KW  -  GIS
+KW  -  GIScience
+KW  -  Knowledge Engineering
+Y2  - April
+T1  - GI Systems for Public Health with an Ontology Based Approach
+PY  - 2012
+ER  - 
+
+
+TY  - CONF
+AD  - Bonn, Germany
+AU  - Ortmann, Jens
+AU  - Limbu, Minu
+AU  - Wang, Dong
+AU  - Kauppinen, Tomi
+T2  - Proceedings of the Terra Cognita Workshop on Foundations, Technologies and Applications of the Geospatial Web, In conjunction with the International Semantic Web Conference (ISWC2011)
+ED  - Grütter, Rolf
+ED  - Kolas, Dave
+ED  - Koubarakis, Manolis
+ED  - Pfoser, Dieter
+KW  - Crowdsourcing
+KW  -  Spatial Information
+KW  -  Haiti Earthquake
+KW  -  Semantic Web
+KW  -  Linked Data
+KW  -  GIScience
+Y2  - October
+SP  - 11
+EP  - -22
+PB  - CEUR Workshop Proceedings
+T1  - Crowdsourcing Linked Open Data for Disaster Management
+VL  - 798
+PY  - 2011
+ER  - 
+
+
+TY  - CONF
+AD  - Münster, Germany,
+AU  - Kauppinen, Tomi
+AU  - de Espindola, Giovana Mira
+T2  - Geoinformatik 2011---GeoChange
+KW  - The Brazilian Amazon Rainforest
+KW  -  Ontology
+KW  -  Environmental Studies
+KW  -  Knowledge Engineering
+Y2  - June
+T1  - Ontology-Based Modeling of Land Change Trajectories in the Brazilian Amazon
+PY  - 2011
+ER  - 
+
+
+TY  - CHAP
+AB  - Georeferencing and semantic annotations improve the find- ability of geoinformation because they exploit relationships to existing data and hence facilitate queries. Unlike georeferencing, which grounds location information in reference points on the earth's surface, seman- tic annotations often lack relations to entities of shared experience. We suggest an approach to semantically reference geoinformation based on underlying observations, relating data to observable entities and actions. After discussing an ontology for an observer's domain of experience, we demonstrate our approach through two use cases. First, we show how to distinguish geosensors based on observed properties and abstracting from technical implementations. Second, we show how to complement annotations of volunteered geographic information with observed affordances.
+AU  - Scheider, Simon
+AU  - Keßler, Carsten
+AU  - Ortmann, Jens
+AU  - Devaraju, Anusuriya
+AU  - Trame, Johannes
+AU  - Kauppinen, Tomi
+AU  - Kuhn, Werner
+ED  - Ashish, Naveen
+ED  - Sheth, Amit
+KW  - OpenStreetMap
+KW  -  Volunteered Geographic Information
+KW  -  Sensor Networks
+KW  -  Spatial Information
+KW  -  Human Sensor Web
+KW  -  Semantic Web
+KW  -  Ontology
+KW  -  GIScience
+KW  -  Spatial Analysis
+KW  -  Environmental Studies
+KW  -  Big Data
+KW  -  Knowledge Engineering
+PB  - Springer
+T1  - Geospatial Semantics and Semantic-Web: Foundations, Algorithms, Applications
+PY  - 2011
+ER  - 
+
+
+TY  - CHAP
+AU  - Hyvonen, Eero
+AU  - Tuominen, Jouni
+AU  - Kauppinen, Tomi
+AU  - Vaatainen, Jari
+ED  - Ashish, Naveen
+ED  - Sheth, Amit
+KW  - Ontology
+KW  -  Spatial Information
+KW  -  Semantic Web
+KW  -  GIScience
+KW  -  Knowledge Engineering
+PB  - Springer
+T1  - Geospatial Semantics and Semantic-Web: Foundations, Algorithms, Applications
+PY  - 2011
+ER  - 
+
+
+TY  - CONF
+AD  - Belfast, Maine, USA
+AU  - Ke\ssler, Carsten
+AU  - Trame, Johannes
+AU  - Kauppinen, Tomi
+T2  - proceedings of Workshop on Identifying Objects, Processes and Events in Spatio-Temporally Distributed Data (IOPE 2011), Conference on Spatial Information Theory: COSIT'11
+KW  - OpenStreetMap
+KW  -  Volunteered Geographic Information
+KW  -  Time
+KW  -  Spatial Information
+KW  -  Human Sensor Web
+KW  -  Spatio-temporal Information
+KW  -  GIScience
+KW  -  Big Data
+Y2  - September
+T1  - Tracking Editing Processes in Volunteered Geographic Information: The Case of OpenStreetMap
+PY  - 2011
+ER  - 
+
+
+TY  - CONF
+AD  - Belfast, Maine, USA
+AU  - Ke\ssler, Carsten
+AU  - Trame, Johannes
+AU  - Kauppinen, Tomi
+T2  - Conference on Spatial Information Theory: COSIT'11
+KW  - OpenStreetMap
+KW  -  Volunteered Geographic Information
+KW  -  Spatial Information
+KW  -  Human Sensor Web
+KW  -  GIScience
+KW  -  Big Data
+Y2  - September
+T1  - Provenance and Trust in Volunteered Geographic Information: The Case of OpenStreetMap
+PY  - 2011
+ER  - 
+
+
+TY  - CONF
+AD  - Campos do Jordão, São Paulo, Brazil
+AU  - de Espindola, Giovana Mira
+AU  - Kauppinen, Tomi
+T2  - GeoChange 2010---GIScience for Environmental Change
+KW  - The Brazilian Amazon Rainforest
+KW  -  GIS
+KW  -  Environmental Studies
+KW  -  GIScience
+KW  -  Spatial Data Mining
+Y2  - November
+T1  - Semantic Linking of Data for the Brazilian Amazon Rainforest Statistics
+PY  - 2010
+ER  - 
+
+
+TY  - CONF
+AD  - Campos do Jordão, São Paulo, Brazil
+AU  - Devaraju, Anusuriya
+AU  - Kauppinen, Tomi
+T2  - GeoChange 2010---GIScience for Environmental Change
+KW  - Ontology
+KW  -  Sensor Networks
+KW  -  Reasoning
+KW  -  Environmental Studies
+KW  -  GIScience
+KW  -  Big Data
+KW  -  Knowledge Engineering
+KW  -  Spatial Data Mining
+Y2  - November
+T1  - Geo-Processes and Properties Observed by Sensors
+PY  - 2010
+ER  - 
+
+
+TY  - CONF
+AD  - Edinburgh, Scotland
+AU  - Kauppinen, Tomi
+AU  - Hyvonen, Eero
+T2  - IJCAI-05 Workshop on Spatial and Temporal Reasoning -- Working Notes
+ED  - Guesgen, Hans W.
+KW  - Ontology
+KW  -  Time
+KW  -  Spatial Information
+KW  -  GIS
+KW  -  Semantic Web
+KW  -  GIScience
+KW  -  Knowledge Engineering
+Y2  - July 30 -- August 5
+SP  - 7
+EP  - -15
+PB  - Nineteenth International Joint Conference on Artificial Intelligence IJCAI-05
+T1  - Geospatial Reasoning over Ontology Changes in Time
+PY  - 2005
+ER  - 
+
+
+TY  - CONF
+AD  - Trento, Italy
+AU  - Ruotsalo, Tuukka
+AU  - Makela, Eetu
+AU  - Kauppinen, Tomi
+AU  - Hyvonen, Eero
+AU  - Haav, Krister
+AU  - Rantala, Ville
+AU  - Frosterus, Matias
+AU  - Dokoohaki, Nima
+AU  - Matskin, Mihhail
+T2  - Proceedings of the International Conferences on Digital Libraries and the Semantic Web 2009 (ICSD2009)
+KW  - SmartMuseum
+KW  -  Digital Cultural Heritage
+KW  -  Personalization
+KW  -  Context-aware
+KW  -  Recommender Systems
+KW  -  Information Systems
+KW  -  Cognitive Systems
+KW  -  Semantic Web
+KW  -  Digital Libraries
+Y2  - September
+T1  - Smartmuseum: Personalized Context-aware Access to Digital Cultural Heritage
+PY  - 2009
+ER  - 
+
+
+TY  - CHAP
+AD  - Helsinki, Finland
+AU  - Henriksson, Riikka
+AU  - Kauppinen, Tomi
+KW  - GIS
+KW  -  GIScience
+PB  - Positio 1/2007. Maanmittauslaitos, Paikkatietojen yhteiskayton edistaminen
+T1  - Ontologioilla paikkatietojen sisalto hallintaan
+PY  - 2007
+ER  - 
+
+
+TY  - CHAP
+AB  - In this paper we examine 1) the scope of geo-ontologies used especially for the 
+purposes of information retrieval on the Web, 2) the core geographical concepts and their mutual relations, and 3) the 
+properties the concepts have. Furthermore, we present the Finnish geo-ontology (Suomalainen 
+paikkaontologia, SUO) and discuss the theories and principles that have governed the development process, as well as 
+the limitations and requirements the use of geographical dictionaries as an instance data source have 
+imposed to the content and the structure of SUO.
+AU  - Henriksson, Riikka
+AU  - Kauppinen, Tomi
+AU  - Hyvonen, Eero
+KW  - Ontology
+KW  -  Semantic Web
+KW  -  Knowledge Engineering
+Y2  - April 21-25
+PB  - Location and the Web (LocWeb) 2008 workshop, 17th International World Wide Web Conference WWW 2008, ACM International Conference Proceeding Series; Vol. 300, Pages 57-60, Beijing, China
+T1  - Core Geographical Concepts: Case Finnish Geo-Ontology
+PY  - 2008
+ER  - 
+
+
+TY  - CONF
+AU  - Hyvonen, Eero
+AU  - Makela, Eetu
+AU  - Kauppinen, Tomi
+AU  - Alm, Olli
+AU  - Kurki, Jussi
+AU  - Ruotsalo, Tuukka
+AU  - Seppala, Katri
+AU  - Takala, Joeli
+AU  - Puputti, Kimmo
+AU  - Kuittinen, Heini
+AU  - Viljanen, Kim
+AU  - Tuominen, Jouni
+AU  - Palonen, Tuomas
+AU  - Frosterus, Matias
+AU  - Sinkkila, Reetta
+AU  - Paakkarinen, Panu
+AU  - Laitio, Joonas
+AU  - Nyberg, Katariina
+T2  - Proceedings of the 6th European Semantic Web Conference (ESWC2009), Heraklion, Greece
+KW  - CultureSampo
+KW  -  Digital Cultural Heritage
+KW  -  Semantic Web
+Y2  - May 31 - June 4
+T1  - CultureSampo -- A National Publication System of Cultural Heritage on the Semantic Web 2.0
+PY  - 2009
+ER  - 
+
+
+TY  - CONF
+AU  - Hyvonen, Eero
+AU  - Makela, Eetu
+AU  - Kauppinen, Tomi
+AU  - Alm, Olli
+AU  - Kurki, Jussi
+AU  - Ruotsalo, Tuukka
+AU  - Seppala, Katri
+AU  - Takala, Joeli
+AU  - Puputti, Kimmo
+AU  - Kuittinen, Heini
+AU  - Viljanen, Kim
+AU  - Tuominen, Jouni
+AU  - Palonen, Tuomas
+AU  - Frosterus, Matias
+AU  - Sinkkila, Reetta
+AU  - Paakkarinen, Panu
+AU  - Laitio, Joonas
+AU  - Nyberg, Katariina
+T2  - Proceedings, Museums and the Web 2009, Indianapolis, USA
+KW  - CultureSampo
+KW  -  Digital Cultural Heritage
+KW  -  Semantic Web
+KW  -  Digital Libraries
+Y2  - April 15-18
+T1  - CultureSampo -- Finnish Culture on the Semantic Web 2.0. Thematic Perspectives for the End-user
+PY  - 2009
+ER  - 
+
+
+TY  - CONF
+AU  - Hyvonen, Eero
+AU  - Makela, Eetu
+AU  - Kauppinen, Tomi
+AU  - Alm, Olli
+AU  - Kurki, Jussi
+AU  - Ruotsalo, Tuukka
+AU  - Seppala, Katri
+AU  - Takala, Joeli
+AU  - Puputti, Kimmo
+AU  - Kuittinen, Heini
+AU  - Viljanen, Kim
+AU  - Tuominen, Jouni
+AU  - Palonen, Tuomas
+AU  - Frosterus, Matias
+AU  - Sinkkila, Reetta
+AU  - Paakkarinen, Panu
+AU  - Laitio, Joonas
+AU  - Nyberg, Katariina
+T2  - Proceedings of the 1st International Symposium on Digital Humanities for Japanese Arts and Cultures (DH-JAC-2009), Ritsumeikan University, Kyoto, Japan
+KW  - CultureSampo
+KW  -  Digital Cultural Heritage
+KW  -  Semantic Web
+KW  -  Digital Maps
+Y2  - March
+T1  - CultureSampo -- Finnish Cultural Heritage Collections on the Semantic Web 2.0
+PY  - 2009
+ER  - 
+
+
+TY  - CONF
+AU  - Hyvonen, Eero
+AU  - Makela, Eetu
+AU  - Kauppinen, Tomi
+AU  - Alm, Olli
+AU  - Kurki, Jussi
+AU  - Ruotsalo, Tuukka
+AU  - Seppala, Katri
+AU  - Takala, Joeli
+AU  - Puputti, Kimmo
+AU  - Kuittinen, Heini
+AU  - Viljanen, Kim
+AU  - Tuominen, Jouni
+AU  - Palonen, Tuomas
+AU  - Frosterus, Matias
+AU  - Sinkkila, Reetta
+AU  - Paakkarinen, Panu
+AU  - Laitio, Joonas
+AU  - Nyberg, Katariina
+T2  - Semantic Computing Research Group, Helsinki University of Technology and University of Helsinki
+KW  - CultureSampo
+KW  -  Digital Cultural Heritage
+KW  -  Semantic Web
+Y2  - Sept 29
+T1  - CultureSampo -- A Collective Memory of Finnish Cultural Heritage on the Semantic Web 2.0
+PY  - 2008
+ER  - 
+
+
+TY  - CONF
+AB  - This paper presents the semantic portal CULTURESAMPO---Finnish Culture on the
+Semantic Web. The portal provides memory organizations and other cultural
+content publishers with a national, shared semantic publication channel for heteroge-
+nous cultural contents. The content comes from over ten organizations and is annotated
+using various ontologies of the FinnONTO infrastructure. For the end-user, intel-
+ligent semantic search, recommendation, and visualization services for accessing and
+learning about cultural heritage are provided.
+AU  - Hyvonen, Eero
+AU  - Makela, Eetu
+AU  - Ruotsalo, Tuukka
+AU  - Kauppinen, Tomi
+AU  - Alm, Olli
+AU  - Kurki, Jussi
+AU  - Takala, Joeli
+AU  - Puputti, Kimmo
+AU  - Kuittinen, Heini
+T2  - Posters of the 5th European Semantic Web Conference 2008 (ESWC 2008), Tenerife, Spain
+KW  - CultureSampo
+KW  -  Digital Cultural Heritage
+KW  -  Visual Analytics
+KW  -  Semantic Web
+KW  -  Digital Libraries
+Y2  - June 1-5
+T1  - CultureSampo--Finnish Culture on the Semantic Web
+PY  - 2008
+ER  - 
+
+
+TY  - PROC
+ED  - Hyvonen, Eero
+ED  - Kauppinen, Tomi
+ED  - Kortela, Jukka
+ED  - Laukkanen, Mikko
+ED  - Raiko, Tapani
+ED  - Viljanen, Kim
+KW  - Artificial Intelligence
+KW  -  Semantic Web
+Y2  - October 26-27
+T1  - Developments in Artificial Intelligence and the Semantic Web - Proceedings of the 12th Finnish AI Conference STeP 2006
+PY  - 2006
+ER  - 
+
+
+TY  - CONF
+AB  - This article presents the vision and results of creating the basis for a national semantic web content infrastructure in Finland in 2003-2007. The main elements of the infrastructure are shared and open metadata schemas, core ontologies, and public ontology services. Several practical applications testing and demonstrating the usefulness of the infrastructure are overviewed in the fields of eCulture, eHealth, eGovernment, eLearning, and eCommerce.
+AU  - Hyvonen, Eero
+AU  - Viljanen, Kim
+AU  - Makela, Eetu
+AU  - Kauppinen, Tomi
+AU  - Ruotsalo, Tuukka
+AU  - Valkeapaa, Onni
+AU  - Seppala, Katri
+AU  - Suominen, Osma
+AU  - Alm, Olli
+AU  - Lindroos, Robin
+AU  - Kansala, Teppo
+AU  - Henriksson, Riikka
+AU  - Frosterus, Matias
+AU  - Tuominen, Jouni
+AU  - Sinkkila, Reetta
+AU  - Kurki, Jussi
+T2  - Proceedings of the First International Semantic Computing Conference (IEEE ICSC 2007), Irvine, California
+KW  - Ontology
+KW  -  Semantic Web
+KW  -  Digital Libraries
+KW  -  Knowledge Engineering
+Y2  - September
+T1  - Elements of a National Semantic Web Infrastructure - Case Study Finland on the Semantic Web (Invited paper)
+PY  - 2007
+ER  - 
+
+
+TY  - CONF
+AB  - Geographic place names are widely used but
+are semantically often highly ambiguous. For example, there are 491
+places in Finland sharing the same name ``Isosaari'' (great island)
+that are instances of several geographical classes, such as Island,
+Forest, Peninsula, Inhabited area, etc. Referencing
+unambiguously to a particular ``Isosaari'',
+either when annotating content or during information retrieval, can
+be quite problematic and requires usage of advanced search methods
+and maps for semantic disambiguation. This paper presents an
+ontology server, ONKI-Paikka, for solving the place finding and
+place name disambiguation problem. In ONKI-Paikka, places can be found by a faceted search
+engine, combined with semantic autocompletion and a map service
+for constraining search and for visualizing results. The service can
+be connected to legacy applications cost-effectively by using
+Ajax-technology in the same spirit as Google Maps that is used in
+ONKI-Paikka as a subservice.
+AU  - Hyvonen, Eero
+AU  - Lindroos, Robin
+AU  - Kauppinen, Tomi
+AU  - Henriksson, Riikka
+T2  - Poster Proceedings of the International Semantic Web Conference (ISWC 2007), Busan, Korea
+KW  - Geospatial Web
+KW  -  Information Visualization
+KW  -  Spatial Information
+KW  -  Visual Analytics
+KW  -  Semantic Web
+KW  -  Ontology
+KW  -  AJAX
+KW  -  GIScience
+KW  -  Knowledge Engineering
+Y2  - Nov
+T1  - An ontology service for geographical content
+PY  - 2007
+ER  - 
+
+
+TY  - PROC
+ED  - Hyvonen, Eero
+ED  - Kauppinen, Tomi
+ED  - Salminen, Mirva
+ED  - Viljanen, Kim
+ED  - Ala-Siuru, Pekka
+KW  - Web Intelligence
+KW  -  Artificial Intelligence
+Y2  - September 1-3
+T1  - Web Intelligence--Proceedings of the 11th Finnish AI Conference
+PY  - 2004
+ER  - 
+
+
+TY  - CONF
+AU  - Hyvonen, Eero
+AU  - Valo, Arttu
+AU  - Seppala, Katri
+AU  - Kauppinen, Tomi
+AU  - Komulainen, Ville
+AU  - Ruotsalo, Tuukka
+AU  - Salminen, Mirva
+AU  - Ylisalmi, Anu
+T2  - Poster paper, 4th International Semantic Web Conference
+KW  - Semantic Web
+KW  -  Digital Libraries
+Y2  - November
+T1  - Creating a National Content and Service Infrastructure for the Semantic Web
+PY  - 2005
+ER  - 
+
+
+TY  - CONF
+AU  - Hyvonen, Eero
+AU  - Valo, Arttu
+AU  - Komulainen, Ville
+AU  - Seppala, Katri
+AU  - Kauppinen, Tomi
+AU  - Ruotsalo, Tuukka
+AU  - Salminen, Mirva
+AU  - Ylisalmi, Anu
+T2  - Proceedings of International Conference on Dublin Core and Metadata Applications (DC 2005)
+KW  - Semantic Web
+KW  -  Digital Libraries
+Y2  - Nov
+T1  - Finnish National Ontologies for the Semantic Web - Towards a Content and Service Infrastructure
+PY  - 2005
+ER  - 
+
+
+TY  - CONF
+AB  - Many tasks on the semantic web require the user to choose concepts 
+from a limited vocabulary e.g. for describing an indexed resource or 
+for use in semantic search. Semantic autocompletion interfaces offer 
+an efficient way for concept selection. However, these interfaces 
+usually do not expose the semantic context of the matched concepts, 
+thereby making it hard to know if a matched concept is the right one, 
+as well as hiding possibly more appropriate choices. Ontology 
+browsers, on the other hand, show context but do not allow quick 
+discovery or embedding into other applications. To lessen these 
+problems, we present an interface combining semantic autocompletion 
+with in-place ontological context navigation. Because required context 
+differs between ontologies, the implementation was designed to make it 
+easy to add different contexts and visualizations.  To test the 
+applicability of our idea and implementation the, system was tested on 
+three ontologies with different requirements and structure. 
+AU  - Sinkkila, Reetta
+AU  - Makela, Eetu
+AU  - Kauppinen, Tomi
+AU  - Hyvonen, Eero
+T2  - First International Workshop on Semantic Metadata Management and Applications, SeMMA 2008, Located at the Fifth European Semantic Web Conference (ESWC 2008), Tenerife, Spain, June 2nd, 2008. Proceedings
+ED  - Belhajjame, Khalid
+ED  - d'Aquin, Mathieu
+ED  - Haase, Peter
+ED  - Missier, Paolo
+KW  - Ontology
+KW  -  Visual Analytics
+KW  -  Semantic Web
+KW  -  Knowledge Engineering
+Y2  - June 1-5
+SP  - 61
+EP  - 68
+PB  - CEUR-WS.org
+T1  - Combining Context Navigation with Semantic Autocompletion to Solve Problems in Concept Selection
+VL  - 346
+PY  - 2008
+ER  - 
+
+
+TY  - MAST
+AU  - Kauppinen, Tomi
+KW  - Ontology
+KW  -  Time
+KW  -  Knowledge Engineering
+PB  - Department of Computer Science, University of Helsinki
+T1  - An Ontology Versioning Framework
+PY  - 2004
+ER  - 
+
+
+TY  - PHDT
+AU  - Kauppinen, Tomi
+KW  - GIS
+KW  -  Time
+KW  -  Temporal Reasoning
+KW  -  Human Computer Interaction
+KW  -  Semantic Web
+KW  -  Ontology
+KW  -  Geospatial Web
+KW  -  Fuzzy Temporal Intervals
+KW  -  Fuzzy Sets
+KW  -  Digital Cultural Heritage
+KW  -  CultureSampo
+KW  -  Crowdsourcing
+KW  -  Context-aware
+KW  -  Artificial Intelligence
+KW  -  Information Retrieval
+KW  -  Information Systems
+KW  -  GIScience
+KW  -  Spatial Information
+KW  -  Digital Maps
+KW  -  Spatio-temporal Information
+KW  -  Digital Libraries
+KW  -  Knowledge Engineering
+Y2  - April
+T1  - Methods for Creating and Using Geospatio-temporal Semantic Web
+UR  - http://lib.tkk.fi/Diss/2010/isbn9789526030593/
+PY  - 2010
+ER  - 
+
+
+TY  - CONF
+AB  - Ontologies aim to capture knowledge about things and their relationships. Publishing ontologies on the Semantic Web enables people and 
+  organizations to use shared ontologies in annotating e.g. photographs, videos, music, and
+  other types of cultural objects. Search engines also use relationships provided
+  by ontologies in semantic search, e.g. for query expansion or for view-based
+  search. However, building ontologies is a time-consuming process, and it should
+  be helped by automatic finding of interesting, possible relationships. Finding the
+  correct concept for annotation purposes is helped by subsumption and partonomy
+  hierarchies and associative relationships. In this paper we show how an analysis
+  of co-occurrences of concepts in annotations can be used to provide interesting
+  relationships for enriching ontological structures. We use association rule mining techniques and test the idea using a set of annotations of cultural objects in
+  CULTURESAMPO portal and the Finnish General Upper Ontology YSO. The results are visualized in the ONKI SKOS browser to give an additional layer on
+  top of the original relationships of the YSO ontology. An analysis shows that
+  best ranked relationships should also be included in the ontology as subclassof or
+  associative relationships.
+  
+AU  - Kauppinen, Tomi
+AU  - Kuittinen, Heini
+AU  - Tuominen, Jouni
+AU  - Seppala, Katri
+AU  - Hyvonen, Eero
+T2  - Proceedings of the ASWC 2008 Workshop on Collective Intelligence (ASWC-CI 2008) organized as a part of the 3rd Asian Semantic Web Conference (ASWC 2008), Bangkok, Thailand
+KW  - CultureSampo
+KW  -  Digital Cultural Heritage
+KW  -  Visual Analytics
+KW  -  Semantic Web
+KW  -  Ontology
+KW  -  Digital Libraries
+KW  -  Knowledge Engineering
+Y2  - February 2-5
+T1  - Extending an Ontology by Analyzing Annotation Co-occurrences in a Semantic Cultural Heritage Portal
+PY  - 2009
+ER  - 
+
+
+TY  - CONF
+AB  - People frequently need to find knowledge related to places when they plan a leisure trip, when they are executing that plan in a certain place, or when they want to virtually explore a place they have visited in the past. In this chapter we present and discuss a set of methods for searching and browsing spatio-
+temporally referenced knowledge related to cultural objects, e.g. artifacts, photographs and visiting sites. These methods have been implemented in the semantic cultural heritage portal CULTURESAMPO that offers map-based interfaces for a user to explore hundreds of thousands of content objects and points of interest in Finland. Our goal is to develop and demonstrate novel ways to help the user 1) to decide where to go for a trip, and 2) to learn more about the neighborhoods and points of interest during the visit. 
+AU  - Kauppinen, Tomi
+AU  - Paakkarinen, Panu
+AU  - Makela, Eetu
+AU  - Kuittinen, Heini
+AU  - Vaatainen, Jari
+AU  - Hyvonen, Eero
+T2  - Digital Culture and E-Tourism: Technologies, Applications and Management Approaches
+KW  - Human Computer Interaction
+KW  -  Digital Cultural Heritage
+KW  -  Information Retrieval
+KW  -  Time
+KW  -  Semantic Web
+KW  -  CultureSampo
+KW  -  Digital Maps
+KW  -  Spatio-temporal Information
+KW  -  Digital Libraries
+KW  -  GIScience
+T1  - Geospatio-temporal Semantic Web for Cultural Heritage
+PY  - 2010
+ER  - 
+
+
+TY  - CONF
+AB  - Semantic web techniques can be used to relate two things together.
+However, usually this relation is not accompanied with a measure that would tell how interesting the relation is. Data mining tradition provides interestingness measures; it is natural to try and fit semantic web and data mining traditions  
+together. In this paper we use support and confidence values provided by association rule mining as interestingness measures for relations. The presented method is 
+tailored to location ontologies in order to find out what interesting mutual relations two places have based on annotations in the cultural heritage domain. The 
+method also uses ontology-based reasoning to group places together. We present tests of running the method against a set of over 60,000 annotations in order to
+find out cultural heritage connections between places.
+AU  - Kauppinen, Tomi
+AU  - Puputti, Kimmo
+AU  - Paakkarinen, Panu
+AU  - Kuittinen, Heini
+AU  - Vaatainen, Jari
+AU  - Hyvonen, Eero
+T2  - Proceedings of the Workshop on Inductive Reasoning and Machine Learning on the Semantic Web (IRMLeS2009), The 6th Annual European Semantic Web Conference (ESWC2009)
+KW  - Visual Analytics
+KW  -  Information Visualization
+KW  -  Data visualization
+KW  -  Digital Cultural Heritage
+KW  -  Semantic Web
+KW  -  Ontology
+KW  -  Digital Libraries
+KW  -  Spatial Analysis
+KW  -  GIScience
+KW  -  Knowledge Engineering
+KW  -  Spatial Data Mining
+Y2  - May 31 - June 4
+T1  - Learning and Visualizing Cultural Heritage Connections between Places on the Semantic Web
+PY  - 2009
+ER  - 
+
+
+TY  - CONF
+AU  - Kauppinen, Tomi
+AU  - Henriksson, Riikka
+AU  - Vaatainen, Jari
+AU  - Deichstetter, Christine
+AU  - Hyvonen, Eero
+T2  - Developments in Artificial Intelligence and the Semantic Web - Proceedings of the 12th Finnish AI Conference STeP 2006
+KW  - Visual Analytics
+KW  -  Information Visualization
+KW  -  Data visualization
+KW  -  Digital Cultural Heritage
+KW  -  Time
+KW  -  Information Systems
+KW  -  Semantic Web
+KW  -  Ontology
+KW  -  Spatio-temporal Information
+KW  -  GIScience
+KW  -  Knowledge Engineering
+Y2  - October 26-27
+T1  - Ontology-based Modeling and Visualization of Cultural Spatio-temporal Knowledge
+PY  - 2006
+ER  - 
+
+
+TY  - CONF
+AD  - Tenerife, Spain
+AU  - Kauppinen, Tomi
+AU  - Henriksson, Riikka
+AU  - Sinkkila, Reetta
+AU  - Lindroos, Robin
+AU  - Vaatainen, Jari
+AU  - Hyvonen, Eero
+T2  - Proceedings of the 1st international workshop on Identity and Reference on the Semantic Web (IRSW2008), 5th European Semantic Web Conference 2008 (ESWC 2008)
+KW  - Ontology
+KW  -  Time
+KW  -  Semantic Web
+KW  -  Spatio-temporal Information
+KW  -  GIScience
+KW  -  Knowledge Engineering
+Y2  - June 1-5
+PB  - CEUR Workshop Proceedings, ISSN 1613-0073
+T1  - Ontology-based Disambiguation of Spatiotemporal Locations
+PY  - 2008
+ER  - 
+
+
+TY  - CONF
+AU  - Kauppinen, Tomi
+AU  - Hyvonen, Eero
+T2  - Proceedings of the 11th Finnish AI Conference, Web Intelligence Symposium
+KW  - Ontology
+KW  -  Semantic Web
+KW  -  Knowledge Engineering
+Y2  - September 1--3
+SP  - 63
+EP  - 72
+PB  - Finnish Artificial Intelligence Society
+T1  - Bridging the Semantic Gap between Ontology Versions
+VL  - 2
+PY  - 2004
+ER  - 
+
+
+TY  - CONF
+AU  - Kauppinen, Tomi
+AU  - Hyvonen, Eero
+T2  - Posters and Demos at the 2nd European Semantic Web Conference ESWC2005
+KW  - GIS
+KW  -  Geospatial Web
+KW  -  Spatial Information
+KW  -  Semantic Web
+KW  -  GIScience
+Y2  - May 29--June 1
+SP  - 49
+EP  - -50
+T1  - Modeling Coverage Between Geospatial Resources
+PY  - 2005
+ER  - 
+
+
+TY  - GEN
+AU  - Kauppinen, Tomi
+AU  - Ruotsalo, Tuukka
+AU  - Salminen, Mirva
+T2  - Systeemityo
+KW  - Semantic Web
+Y2  - Dec
+PB  - Systeemityoyhdistys SYTYKE ry
+T1  - Tiedon Mallintaminen Semanttisessa Webissa
+VL  - 4
+PY  - 2005
+ER  - 
+
+
+TY  - CONF
+AU  - Kauppinen, Tomi
+AU  - Deichstetter, Christine
+AU  - Hyvonen, Eero
+T2  - Demo track at the European Semantic Web Conference ESWC 2007, Innsbruck, Austria
+KW  - Geospatial Web
+KW  -  Information Visualization
+KW  -  Visual Analytics
+KW  -  Time
+KW  -  Spatial Information
+KW  -  Semantic Web
+KW  -  Ontology
+KW  -  Digital Maps
+KW  -  Spatio-temporal Information
+KW  -  GIScience
+KW  -  Knowledge Engineering
+Y2  - June 4-5
+PB  - Springer
+T1  - Temp-O-Map: Ontology-based Search and Visualization of Spatio-Temporal Maps
+PY  - 2007
+ER  - 
+
+
+TY  - CHAP
+AB  - Ontologies evolve when the underlying domain world changes at different points of time. The result then is a series of ontologies whose concepts are related with each other not only within one ontology valid at a moment but through the time, too. This chapter presents a model for representing ontology time series. The focus is on modeling partial overlap between concepts evolving over long periods of time, and the domain of application is historical geospatial reasoning. A framework is presented for representing and reasoning about conceptual overlap of concepts that evolve over an ontology time series. The idea is to provide the ontology developer with an intuitive change ontology for expressing local ontological changes in a declarative way. An algorithm is presented for reasoning about overlapping concepts globally over long periods of time. This algorithm can be applied, e.g., in concept-based information retrieval for ranking search results according to their relevance.
+AD  - New York, NY
+AU  - Kauppinen, Tomi
+AU  - Hyvonen, Eero
+T2  - Ontologies: A Handbook of Principles, Concepts and Applications in Information Systems
+ED  - Kishore, Rajiv
+ED  - Ramesh, Ram
+ED  - Sharman, Raj
+KW  - Ontology
+KW  -  Temporal Reasoning
+KW  -  Time
+KW  -  Reasoning
+KW  -  Spatial Information
+KW  -  Spatio-temporal Information
+KW  -  GIScience
+KW  -  Knowledge Engineering
+Y2  - January 15
+SP  - 319
+EP  - -338
+PB  - Springer-Verlag, New York (NY)
+T1  - Modeling and Reasoning about Changes in Ontology Time Series
+PY  - 2007
+ER  - 
+
+
+TY  - CONF
+AB  - A lot of functionality is needed when an application, such as a museum cataloguing system, is extended with semantic capabilities, for example ontological indexing functionality or multi-facet search. To avoid duplicate work and to enable easy and cost-efficient integration of information systems with the Semantic Web, we propose a web widget approach. Here, data sources are combined with functionality into readyto-use software components that allow adding semantic functionality to systems with just a few lines of code. As a proof of the concept, we present a collection of general semantic web widgets and case applications that use them, such as the ontology server ONKI, the annotation editor SAHA and the culture portal CultureSampo.
+AU  - Makela, Eetu
+AU  - Viljanen, Kim
+AU  - Alm, Olli
+AU  - Tuominen, Jouni
+AU  - Valkeapaa, Onni
+AU  - Kauppinen, Tomi
+AU  - Kurki, Jussi
+AU  - Sinkkila, Reetta
+AU  - Kansala, Teppo
+AU  - Lindroos, Robin
+AU  - Suominen, Osma
+AU  - Ruotsalo, Tuukka
+AU  - Hyvonen, Eero
+T2  - Proceedings of the First Industrial Results of Semantic Technologies Workshop, ISWC2007
+KW  - Ontology
+KW  -  Semantic Web
+KW  -  CultureSampo
+KW  -  Web Widgets
+KW  -  Digital Libraries
+KW  -  Knowledge Engineering
+Y2  - November 11
+T1  - Enabling the Semantic Web with Ready-to-Use Web Widgets
+PY  - 2007
+ER  - 
+
+
+TY  - JOUR
+AU  - Ruotsalo, Tuukka
+AU  - Seppala, Katri
+AU  - Viljanen, Kim
+AU  - Makela, Eetu
+AU  - Kurki, Jussi
+AU  - Alm, Olli
+AU  - Kauppinen, Tomi
+AU  - Tuominen, Jouni
+AU  - Frosterus, Matias
+AU  - Sinkkila, Reetta
+AU  - Hyvonen, Eero
+JO  - Signum
+KW  - Ontology
+KW  -  Knowledge Engineering
+IS  - 5
+T1  - Ontology--based Approach for Interoperability of Digital Collections
+PY  - 2008
+ER  - 
+
+
+TY  - CONF
+AD  - Florence, Italy
+AU  - Kauppinen, Tomi
+AU  - Ruotsalo, Tuukka
+AU  - Weis, Fridiric
+AU  - Roche, Sylvain
+AU  - Berni, Marco
+AU  - Dokoohaki, Nima
+AU  - Hyvonen, Eero
+T2  - Proceedings of the 2nd Conference of Cultural Heritage on line---Empowering users: an active role for user communities
+KW  - SmartMuseum
+KW  -  Context-aware
+KW  -  Digital Cultural Heritage
+KW  -  Personalization
+KW  -  Recommender Systems
+KW  -  Cognitive Systems
+KW  -  Digital Libraries
+Y2  - December 15--16
+PB  - Fondazione Rinascimento Digitale, Ministero per i Beni e le Attivitai Culturali and The Library of Congress
+T1  - SmartMuseum: Knowledge Exchange Platform for Cross-European Cultural Content Integration and Mobile Publication
+PY  - 2009
+ER  - 
+
+
+TY  - CONF
+AD  - Florence, Italy
+AU  - Berni, Marco
+AU  - Dokoohaki, Nima
+AU  - Fani, Elena
+AU  - Hyvonen, Eero
+AU  - Kauppinen, Tomi
+AU  - Matskin, Mihhail
+AU  - Makela, Eetu
+AU  - Ruotsalo, Tuukka
+T2  - Proceedings of Electronic Imaging \& the Visual Arts (EVA 2009)
+KW  - SmartMuseum
+KW  -  Context-aware
+KW  -  Digital Cultural Heritage
+KW  -  Personalization
+KW  -  Recommender Systems
+KW  -  Information Systems
+KW  -  Cognitive Systems
+KW  -  Visual Analytics
+KW  -  Ontology
+KW  -  Digital Libraries
+KW  -  Knowledge Engineering
+Y2  - April 28--30
+T1  - SMARTMUSEUM: a cultural heritage knowledge exchange platform based on ontology-oriented, context-aware and profiling systems
+PY  - 2009
+ER  - 
+
+
+TY  - CONF
+AB  - In this paper we present an ontology-based query expansion widget which utilizes the ontologies published in the ONKI Ontology
+Service. The widget can be integrated into a web page, e.g. a search
+system of a museum catalogue, enhancing the page by providing a query
+expansion functionality. We have tested the system with general,
+domain-specific and spatio-temporal ontologies.
+AU  - Tuominen, Jouni
+AU  - Kauppinen, Tomi
+AU  - Viljanen, Kim
+AU  - Hyvonen, Eero
+T2  - Proceedings of the 5th Workshop on Scripting and Development for the Semantic Web (SFSW 2009), 6th European Semantic Web Conference (ESWC 2009)
+KW  - Ontology
+KW  -  Time
+KW  -  Semantic Web
+KW  -  Spatio-temporal Information
+KW  -  Digital Libraries
+KW  -  GIScience
+KW  -  Knowledge Engineering
+Y2  - May 31 - June 4
+PB  - CEUR Workshop Proceedings, http://ceur-ws.org/
+T1  - Ontology-Based Query Expansion Widget for Information Retrieval
+PY  - 2009
+ER  - 
+
+
+TY  - PROC
+AD  - Pori, Finland
+T2  - Proceedings of the 9th XML Finland Conference, XML Finland 2005
+ED  - Heimburger, Anneli
+ED  - Kauppinen, Tomi
+ED  - Lehtinen, Harri
+ED  - Multisilta, Jari
+ED  - Paajanen, Matti
+ED  - Rytkonen, Kimmo
+KW  - XML
+KW  -  Business Processes
+Y2  - March 8--9
+IS  - 2
+PB  - Tampere University of Technology
+T1  - XML - The Enabling Technology for Integrating Business Processes
+PY  - 2005
+ER  - 
+
+
+TY  - JOUR
+AU  - Ruotsalo, Tuukka
+AU  - Haav, Krister
+AU  - Stoyanov, Antony
+AU  - Roche, Sylvain
+AU  - Fanid, Elena
+AU  - Delia, Romina
+AU  - Makela, Eetu
+AU  - Kauppinen, Tomi
+AU  - Hyvonen, Eero
+JO  - Web Semantics: Science, Services and Agents on the World Wide Web
+KW  - SmartMuseum
+KW  -  Context-aware
+KW  -  Digital Cultural Heritage
+KW  -  Personalization
+KW  -  Recommender Systems
+KW  -  Information Systems
+KW  -  Cognitive Systems
+KW  -  Digital Libraries
+Y2  - May
+SP  - 50
+EP  - -67
+PB  - Elsevier
+T1  - SMARTMUSEUM: A Mobile Recommender System for the Web of Data
+VL  - 20
+PY  - 2013
+ER  - 
