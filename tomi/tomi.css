@@ -1,0 +1,706 @@
+/* =========================================================
+   TOMI KAUPPINEN
+   GEOPOETIC STYLE
+   Creativity · Collaboration · Communication · Soul
+========================================================= */
+
+/* =========================================================
+   GOOGLE FONTS
+========================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Cormorant+Garamond:wght@400;500;600&display=swap');
+
+/* =========================================================
+   ROOT VARIABLES
+========================================================= */
+
+:root {
+
+  /* Atmosphere */
+  --bg-main: #f4f1ea;
+  --bg-soft: #ebe6dc;
+  --mist: rgba(255,255,255,0.55);
+
+  /* Typography */
+  --ink: #1f2a30;
+  --ink-soft: #5f6a70;
+
+  /* Earth palette */
+  --earth: #85725f;
+  --moss: #72806d;
+  --clay: #b45f3c;
+  --sand: #d8c8b6;
+
+  /* Light */
+  --paper: rgba(255,255,255,0.68);
+
+  /* Borders */
+  --line: rgba(0,0,0,0.08);
+
+  /* Geometry */
+  --radius: 22px;
+
+  /* Motion */
+  --speed: 260ms;
+}
+
+/* =========================================================
+   GLOBAL RESET
+========================================================= */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+
+  scroll-behavior: smooth;
+}
+
+body {
+
+  margin: 0;
+  padding: 0;
+
+  min-height: 100vh;
+
+  background:
+
+    radial-gradient(
+      circle at top left,
+      rgba(255,255,255,0.45),
+      transparent 40%
+    ),
+
+    linear-gradient(
+      180deg,
+      var(--bg-main),
+      var(--bg-soft)
+    );
+
+  color: var(--ink);
+
+  font-family: 'Inter', sans-serif;
+
+  font-size: 22px;
+  line-height: 1.8;
+  font-weight: 300;
+
+  letter-spacing: 0.01em;
+
+  overflow-x: hidden;
+}
+
+/* =========================================================
+   ZEN PAPER TEXTURE
+========================================================= */
+
+body::before {
+
+  content: "";
+
+  position: fixed;
+  inset: 0;
+
+  pointer-events: none;
+
+  opacity: 0.4;
+
+  background-image:
+    linear-gradient(
+      rgba(0,0,0,0.012) 1px,
+      transparent 1px
+    );
+
+  background-size: 100% 3px;
+
+  mix-blend-mode: multiply;
+}
+
+/* =========================================================
+   FLOATING LIGHT ORB
+========================================================= */
+
+body::after {
+
+  content: "";
+
+  position: fixed;
+
+  top: -180px;
+  right: -180px;
+
+  width: 520px;
+  height: 520px;
+
+  border-radius: 50%;
+
+  background:
+    radial-gradient(
+      circle,
+      rgba(255,255,255,0.42),
+      transparent 72%
+    );
+
+  pointer-events: none;
+
+  filter: blur(12px);
+
+  z-index: 0;
+}
+
+/* =========================================================
+   PAGE LAYOUT
+========================================================= */
+
+#pageLayout {
+
+  position: relative;
+
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1fr)
+    30vw;
+
+  align-items: stretch;
+
+  min-height: 100vh;
+
+  z-index: 1;
+}
+
+/* =========================================================
+   LEFT CONTENT COLUMN
+========================================================= */
+
+#contentColumn {
+
+  padding:
+    5rem
+    clamp(2rem, 6vw, 9rem)
+    8rem
+    clamp(2rem, 6vw, 9rem);
+
+  overflow-x: hidden;
+}
+
+/* =========================================================
+   MAIN CONTENT PANEL
+========================================================= */
+
+#app {
+
+  position: relative;
+
+  max-width: 940px;
+
+  padding:
+    clamp(2rem, 4vw, 5rem);
+
+  background: var(--paper);
+
+  backdrop-filter: blur(16px);
+
+  border-radius: var(--radius);
+
+  border:
+    1px solid rgba(255,255,255,0.45);
+
+  box-shadow:
+    0 20px 60px rgba(0,0,0,0.08),
+    0 4px 12px rgba(0,0,0,0.04);
+
+  transition:
+    transform var(--speed) ease,
+    box-shadow var(--speed) ease;
+}
+
+#app:hover {
+
+  transform: translateY(-3px);
+
+  box-shadow:
+    0 30px 80px rgba(0,0,0,0.10),
+    0 10px 20px rgba(0,0,0,0.06);
+}
+
+/* =========================================================
+   TYPOGRAPHY
+========================================================= */
+
+h1,
+h2,
+h3,
+h4 {
+
+  font-family:
+    'Cormorant Garamond',
+    serif;
+
+  color: var(--ink);
+
+  font-weight: 500;
+
+  letter-spacing: 0.02em;
+
+  line-height: 1.08;
+
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+
+  margin-top: 0;
+
+  font-size:
+    clamp(3.5rem, 7vw, 7rem);
+}
+
+h2 {
+
+  font-size:
+    clamp(2rem, 4vw, 3.8rem);
+}
+
+h3 {
+
+  font-size: 2rem;
+}
+
+h4 {
+
+  font-size: 1.4rem;
+}
+
+p {
+
+  max-width: 70ch;
+
+  color: var(--ink-soft);
+}
+
+/* =========================================================
+   LINKS
+========================================================= */
+
+a {
+
+  color: var(--clay);
+
+  text-decoration: none;
+
+  position: relative;
+
+  transition:
+    color var(--speed) ease,
+    opacity var(--speed) ease;
+}
+
+a::after {
+
+  content: "";
+
+  position: absolute;
+
+  left: 0;
+  bottom: -0.14em;
+
+  width: 100%;
+  height: 1px;
+
+  background: currentColor;
+
+  transform: scaleX(0.16);
+
+  transform-origin: left;
+
+  opacity: 0.45;
+
+  transition:
+    transform var(--speed) ease,
+    opacity var(--speed) ease;
+}
+
+a:hover {
+
+  color: var(--moss);
+}
+
+a:hover::after {
+
+  transform: scaleX(1);
+
+  opacity: 1;
+}
+
+a:visited {
+
+  color: #7d6f8f;
+}
+
+/* =========================================================
+   EMPHASIS
+========================================================= */
+
+.bold {
+  font-weight: 600;
+}
+
+.italic,
+.oblique {
+  font-style: italic;
+}
+
+/* =========================================================
+   LISTS
+========================================================= */
+
+ul {
+
+  list-style: none;
+
+  margin: 2rem 0;
+  padding: 0;
+}
+
+li {
+
+  position: relative;
+
+  padding-left: 1.6rem;
+
+  margin: 1rem 0;
+
+  color: var(--ink-soft);
+}
+
+li::before {
+
+  content: "·";
+
+  position: absolute;
+
+  left: 0;
+
+  color: var(--sand);
+
+  font-size: 1.7rem;
+
+  line-height: 1;
+}
+
+/* =========================================================
+   INPUTS
+========================================================= */
+
+input,
+textarea {
+
+  width: 100%;
+
+  padding:
+    1rem
+    1.2rem;
+
+  border-radius: 14px;
+
+  border:
+    1px solid rgba(0,0,0,0.08);
+
+  background:
+    rgba(255,255,255,0.58);
+
+  color: var(--ink);
+
+  font-size: 1rem;
+
+  transition:
+    border-color var(--speed) ease,
+    box-shadow var(--speed) ease,
+    background var(--speed) ease;
+}
+
+input:focus,
+textarea:focus {
+
+  outline: none;
+
+  border-color: var(--sand);
+
+  background:
+    rgba(255,255,255,0.82);
+
+  box-shadow:
+    0 0 0 4px rgba(180,95,60,0.08);
+}
+
+/* =========================================================
+   DONE STATE
+========================================================= */
+
+.done {
+
+  opacity: 0.35;
+
+  text-decoration: line-through;
+}
+
+/* =========================================================
+   HR
+========================================================= */
+
+hr {
+
+  border: none;
+
+  height: 1px;
+
+  margin: 4rem 0;
+
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      rgba(0,0,0,0.12),
+      transparent
+    );
+}
+
+/* =========================================================
+   SELECTION
+========================================================= */
+
+::selection {
+
+  background:
+    rgba(180,95,60,0.16);
+
+  color: var(--ink);
+}
+
+/* =========================================================
+   RIGHT SIDEBAR COLUMN
+========================================================= */
+
+
+/* =========================================================
+   RIGHT COLUMN
+========================================================= */
+
+#mapColumn {
+
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+  height: 100%;
+}
+
+/* =========================================================
+   PHOTO
+========================================================= */
+
+#mapPhoto {
+
+  height: 340px;
+
+  flex-shrink: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  overflow: hidden;
+}
+
+/* =========================================================
+   MAP
+========================================================= */
+
+#polarMap {
+
+  width: 100vh;
+
+/*  height: 16000px;*/
+  height: 100vh;
+}
+
+
+/* =========================================================
+   CIRCLE PORTRAIT
+========================================================= */
+
+.tomiPortrait {
+
+  width: 220px;
+  height: 220px;
+
+  border-radius: 50%;
+
+  object-fit: cover;
+  object-position: center 25%;
+
+  display: block;
+
+  border:
+    8px solid rgba(255,255,255,0.75);
+
+  box-shadow:
+    0 12px 30px rgba(0,0,0,0.12),
+    0 4px 12px rgba(0,0,0,0.08);
+
+  transition:
+    transform var(--speed) ease,
+    box-shadow var(--speed) ease,
+    filter var(--speed) ease;
+
+  filter:
+    saturate(0.96)
+    contrast(1.02);
+}
+
+.tomiPortrait:hover {
+
+  transform:
+    scale(1.025)
+    rotate(-0.4deg);
+
+  box-shadow:
+    0 18px 50px rgba(0,0,0,0.16),
+    0 8px 20px rgba(0,0,0,0.10);
+
+  filter:
+    saturate(1)
+    contrast(1.04);
+}
+
+/* =========================================================
+   MAP
+========================================================= */
+
+#polarMap {
+
+  flex: 1;
+
+  min-height: 5000px;
+
+  width: 100%;
+}
+
+/* =========================================================
+   LEAFLET STYLE REFINEMENT
+========================================================= */
+
+.leaflet-container {
+
+  background:
+    #d9d3ca;
+}
+
+.leaflet-control-container {
+
+  font-family:
+    'Inter',
+    sans-serif;
+}
+
+.leaflet-bar {
+
+  border: none !important;
+
+  box-shadow:
+    0 4px 12px rgba(0,0,0,0.08) !important;
+}
+
+.leaflet-bar a {
+
+  background:
+    rgba(255,255,255,0.92) !important;
+
+  color:
+    var(--ink) !important;
+
+  border-bottom:
+    1px solid rgba(0,0,0,0.06) !important;
+}
+
+.leaflet-bar a:hover {
+
+  background:
+    rgba(255,255,255,1) !important;
+
+  color:
+    var(--clay) !important;
+}
+
+.leaflet-control-layers {
+
+  border: none !important;
+
+  border-radius: 14px !important;
+
+  background:
+    rgba(255,255,255,0.92) !important;
+
+  backdrop-filter: blur(10px);
+
+  box-shadow:
+    0 8px 24px rgba(0,0,0,0.08);
+}
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 1100px) {
+
+  #pageLayout {
+
+    grid-template-columns: 1fr;
+  }
+
+  #contentColumn {
+
+    padding: 2rem;
+  }
+
+  #mapColumn {
+
+    min-height: 100vh;
+
+    border-left: none;
+
+    border-top:
+      1px solid var(--line);
+  }
+
+  #mapPhoto {
+
+    min-height: 260px;
+  }
+
+  .tomiPortrait {
+
+    width: 170px;
+    height: 170px;
+  }
+
+  body {
+
+    font-size: 19px;
+  }
+
+  h1 {
+
+    line-height: 0.95;
+  }
+
+  #polarMap {
+
+    min-height: 2200px;
+  }
+}
